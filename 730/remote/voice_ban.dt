@@ -1,0 +1,7163 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	users = 
+	[
+		{
+			flags = 3
+			steamid = 76561199870924976
+		},
+		{
+			flags = 3
+			steamid = 76561199817388850
+		},
+		{
+			flags = 3
+			steamid = 76561199836269078
+		},
+		{
+			flags = 3
+			steamid = 76561199833090012
+		},
+		{
+			flags = 3
+			steamid = 76561199800999398
+		},
+		{
+			flags = 3
+			steamid = 76561199263581077
+		},
+		{
+			flags = 3
+			steamid = 76561199797598699
+		},
+		{
+			flags = 3
+			steamid = 76561199872578464
+		},
+		{
+			flags = 3
+			steamid = 76561199083196461
+		},
+		{
+			flags = 3
+			steamid = 76561199850318276
+		},
+		{
+			flags = 3
+			steamid = 76561199172009444
+		},
+		{
+			flags = 3
+			steamid = 76561199801576161
+		},
+		{
+			flags = 3
+			steamid = 76561199782842426
+		},
+		{
+			flags = 3
+			steamid = 76561199801094459
+		},
+		{
+			flags = 3
+			steamid = 76561199866260349
+		},
+		{
+			flags = 3
+			steamid = 76561199827809276
+		},
+		{
+			flags = 3
+			steamid = 76561199855300594
+		},
+		{
+			flags = 3
+			steamid = 76561198841847472
+		},
+		{
+			flags = 3
+			steamid = 76561199861359571
+		},
+		{
+			flags = 3
+			steamid = 76561199859059591
+		},
+		{
+			flags = 3
+			steamid = 76561199835945228
+		},
+		{
+			flags = 3
+			steamid = 76561199475032673
+		},
+		{
+			flags = 3
+			steamid = 76561199054106486
+		},
+		{
+			flags = 3
+			steamid = 76561199826627135
+		},
+		{
+			flags = 3
+			steamid = 76561199842588074
+		},
+		{
+			flags = 3
+			steamid = 76561199755875038
+		},
+		{
+			flags = 3
+			steamid = 76561199624600644
+		},
+		{
+			flags = 3
+			steamid = 76561199566337271
+		},
+		{
+			flags = 3
+			steamid = 76561199868548983
+		},
+		{
+			flags = 3
+			steamid = 76561199571480939
+		},
+		{
+			flags = 3
+			steamid = 76561199827531701
+		},
+		{
+			flags = 3
+			steamid = 76561199866397104
+		},
+		{
+			flags = 3
+			steamid = 76561199049103398
+		},
+		{
+			flags = 3
+			steamid = 76561199547706689
+		},
+		{
+			flags = 3
+			steamid = 76561198081992792
+		},
+		{
+			flags = 3
+			steamid = 76561199627123641
+		},
+		{
+			flags = 3
+			steamid = 76561199868952069
+		},
+		{
+			flags = 3
+			steamid = 76561198105705184
+		},
+		{
+			flags = 3
+			steamid = 76561199694079559
+		},
+		{
+			flags = 3
+			steamid = 76561199786639855
+		},
+		{
+			flags = 3
+			steamid = 76561199728107256
+		},
+		{
+			flags = 3
+			steamid = 76561199852433595
+		},
+		{
+			flags = 3
+			steamid = 76561199850787562
+		},
+		{
+			flags = 3
+			steamid = 76561199872226807
+		},
+		{
+			flags = 3
+			steamid = 76561199849561224
+		},
+		{
+			flags = 3
+			steamid = 76561199553668056
+		},
+		{
+			flags = 3
+			steamid = 76561199846614628
+		},
+		{
+			flags = 3
+			steamid = 76561199866153326
+		},
+		{
+			flags = 3
+			steamid = 76561199730514191
+		},
+		{
+			flags = 3
+			steamid = 76561199620283810
+		},
+		{
+			flags = 3
+			steamid = 76561198963981242
+		},
+		{
+			flags = 3
+			steamid = 76561199444937758
+		},
+		{
+			flags = 3
+			steamid = 76561199665732924
+		},
+		{
+			flags = 3
+			steamid = 76561199379568222
+		},
+		{
+			flags = 3
+			steamid = 76561199780261896
+		},
+		{
+			flags = 3
+			steamid = 76561199208291697
+		},
+		{
+			flags = 3
+			steamid = 76561199437196409
+		},
+		{
+			flags = 3
+			steamid = 76561199437282614
+		},
+		{
+			flags = 3
+			steamid = 76561199765113420
+		},
+		{
+			flags = 3
+			steamid = 76561199543929241
+		},
+		{
+			flags = 3
+			steamid = 76561199069628971
+		},
+		{
+			flags = 3
+			steamid = 76561199559492220
+		},
+		{
+			flags = 3
+			steamid = 76561199522609497
+		},
+		{
+			flags = 3
+			steamid = 76561199699061443
+		},
+		{
+			flags = 3
+			steamid = 76561199786927093
+		},
+		{
+			flags = 3
+			steamid = 76561199427377452
+		},
+		{
+			flags = 3
+			steamid = 76561199529515477
+		},
+		{
+			flags = 3
+			steamid = 76561199246051678
+		},
+		{
+			flags = 3
+			steamid = 76561198956971626
+		},
+		{
+			flags = 3
+			steamid = 76561199599453478
+		},
+		{
+			flags = 3
+			steamid = 76561199420426659
+		},
+		{
+			flags = 3
+			steamid = 76561199708836760
+		},
+		{
+			flags = 3
+			steamid = 76561199390352542
+		},
+		{
+			flags = 3
+			steamid = 76561199866457605
+		},
+		{
+			flags = 3
+			steamid = 76561199828184289
+		},
+		{
+			flags = 3
+			steamid = 76561199541171836
+		},
+		{
+			flags = 3
+			steamid = 76561199669513172
+		},
+		{
+			flags = 3
+			steamid = 76561199820493934
+		},
+		{
+			flags = 3
+			steamid = 76561199717498497
+		},
+		{
+			flags = 3
+			steamid = 76561199553365803
+		},
+		{
+			flags = 3
+			steamid = 76561199866969072
+		},
+		{
+			flags = 3
+			steamid = 76561199649611646
+		},
+		{
+			flags = 3
+			steamid = 76561199870076793
+		},
+		{
+			flags = 3
+			steamid = 76561199872422099
+		},
+		{
+			flags = 3
+			steamid = 76561199871000624
+		},
+		{
+			flags = 3
+			steamid = 76561199023968535
+		},
+		{
+			flags = 3
+			steamid = 76561199842409358
+		},
+		{
+			flags = 3
+			steamid = 76561199872396979
+		},
+		{
+			flags = 3
+			steamid = 76561199870749658
+		},
+		{
+			flags = 3
+			steamid = 76561199866542663
+		},
+		{
+			flags = 3
+			steamid = 76561199862634982
+		},
+		{
+			flags = 3
+			steamid = 76561199730741212
+		},
+		{
+			flags = 3
+			steamid = 76561199767128606
+		},
+		{
+			flags = 3
+			steamid = 76561199548297322
+		},
+		{
+			flags = 3
+			steamid = 76561199825141436
+		},
+		{
+			flags = 3
+			steamid = 76561198945921524
+		},
+		{
+			flags = 3
+			steamid = 76561199556905790
+		},
+		{
+			flags = 3
+			steamid = 76561198823546535
+		},
+		{
+			flags = 3
+			steamid = 76561199866044455
+		},
+		{
+			flags = 3
+			steamid = 76561199741359871
+		},
+		{
+			flags = 3
+			steamid = 76561199845771291
+		},
+		{
+			flags = 3
+			steamid = 76561199728518162
+		},
+		{
+			flags = 3
+			steamid = 76561199865991267
+		},
+		{
+			flags = 3
+			steamid = 76561199868116000
+		},
+		{
+			flags = 3
+			steamid = 76561199099085968
+		},
+		{
+			flags = 3
+			steamid = 76561199869444988
+		},
+		{
+			flags = 3
+			steamid = 76561199597680616
+		},
+		{
+			flags = 3
+			steamid = 76561199843241997
+		},
+		{
+			flags = 3
+			steamid = 76561199872883407
+		},
+		{
+			flags = 3
+			steamid = 76561199556253968
+		},
+		{
+			flags = 3
+			steamid = 76561199815908360
+		},
+		{
+			flags = 3
+			steamid = 76561199816761082
+		},
+		{
+			flags = 3
+			steamid = 76561199728170299
+		},
+		{
+			flags = 3
+			steamid = 76561199743442719
+		},
+		{
+			flags = 3
+			steamid = 76561199821783885
+		},
+		{
+			flags = 3
+			steamid = 76561199530388733
+		},
+		{
+			flags = 3
+			steamid = 76561199865735081
+		},
+		{
+			flags = 3
+			steamid = 76561199237037413
+		},
+		{
+			flags = 3
+			steamid = 76561199728170296
+		},
+		{
+			flags = 3
+			steamid = 76561199645048942
+		},
+		{
+			flags = 3
+			steamid = 76561199863607144
+		},
+		{
+			flags = 3
+			steamid = 76561199832939610
+		},
+		{
+			flags = 3
+			steamid = 76561199731187766
+		},
+		{
+			flags = 3
+			steamid = 76561199868516171
+		},
+		{
+			flags = 3
+			steamid = 76561199800474477
+		},
+		{
+			flags = 3
+			steamid = 76561199863118731
+		},
+		{
+			flags = 3
+			steamid = 76561199868811404
+		},
+		{
+			flags = 3
+			steamid = 76561199785618274
+		},
+		{
+			flags = 3
+			steamid = 76561199845844154
+		},
+		{
+			flags = 3
+			steamid = 76561199844186631
+		},
+		{
+			flags = 3
+			steamid = 76561199730245712
+		},
+		{
+			flags = 3
+			steamid = 76561199794229143
+		},
+		{
+			flags = 3
+			steamid = 76561199090384138
+		},
+		{
+			flags = 3
+			steamid = 76561199445606561
+		},
+		{
+			flags = 3
+			steamid = 76561199857164808
+		},
+		{
+			flags = 3
+			steamid = 76561199832617119
+		},
+		{
+			flags = 3
+			steamid = 76561199727859786
+		},
+		{
+			flags = 3
+			steamid = 76561199832861570
+		},
+		{
+			flags = 3
+			steamid = 76561199821266953
+		},
+		{
+			flags = 3
+			steamid = 76561199657502212
+		},
+		{
+			flags = 3
+			steamid = 76561199865674239
+		},
+		{
+			flags = 3
+			steamid = 76561199823056026
+		},
+		{
+			flags = 3
+			steamid = 76561198398716187
+		},
+		{
+			flags = 3
+			steamid = 76561199791892109
+		},
+		{
+			flags = 3
+			steamid = 76561199872973751
+		},
+		{
+			flags = 3
+			steamid = 76561199867302664
+		},
+		{
+			flags = 3
+			steamid = 76561199825323470
+		},
+		{
+			flags = 3
+			steamid = 76561199833356149
+		},
+		{
+			flags = 3
+			steamid = 76561199863134694
+		},
+		{
+			flags = 3
+			steamid = 76561199866720199
+		},
+		{
+			flags = 3
+			steamid = 76561199728198320
+		},
+		{
+			flags = 3
+			steamid = 76561199826666431
+		},
+		{
+			flags = 3
+			steamid = 76561199108631410
+		},
+		{
+			flags = 3
+			steamid = 76561199330392757
+		},
+		{
+			flags = 3
+			steamid = 76561199842943827
+		},
+		{
+			flags = 3
+			steamid = 76561199806002157
+		},
+		{
+			flags = 3
+			steamid = 76561199734280888
+		},
+		{
+			flags = 3
+			steamid = 76561199875309708
+		},
+		{
+			flags = 3
+			steamid = 76561199566991357
+		},
+		{
+			flags = 3
+			steamid = 76561199788775626
+		},
+		{
+			flags = 3
+			steamid = 76561199528852678
+		},
+		{
+			flags = 3
+			steamid = 76561199809563330
+		},
+		{
+			flags = 3
+			steamid = 76561199864744576
+		},
+		{
+			flags = 3
+			steamid = 76561199664314869
+		},
+		{
+			flags = 3
+			steamid = 76561199365173727
+		},
+		{
+			flags = 3
+			steamid = 76561199124797495
+		},
+		{
+			flags = 3
+			steamid = 76561199739093484
+		},
+		{
+			flags = 3
+			steamid = 76561199596062841
+		},
+		{
+			flags = 3
+			steamid = 76561199874455578
+		},
+		{
+			flags = 3
+			steamid = 76561199228571881
+		},
+		{
+			flags = 3
+			steamid = 76561199182356973
+		},
+		{
+			flags = 3
+			steamid = 76561199737793805
+		},
+		{
+			flags = 3
+			steamid = 76561199219596248
+		},
+		{
+			flags = 3
+			steamid = 76561199258232427
+		},
+		{
+			flags = 3
+			steamid = 76561199352434062
+		},
+		{
+			flags = 3
+			steamid = 76561199215490103
+		},
+		{
+			flags = 3
+			steamid = 76561199577950073
+		},
+		{
+			flags = 3
+			steamid = 76561199155431675
+		},
+		{
+			flags = 3
+			steamid = 76561199568464846
+		},
+		{
+			flags = 3
+			steamid = 76561199835612951
+		},
+		{
+			flags = 3
+			steamid = 76561199764349135
+		},
+		{
+			flags = 3
+			steamid = 76561199864159830
+		},
+		{
+			flags = 3
+			steamid = 76561199495479506
+		},
+		{
+			flags = 3
+			steamid = 76561199753744494
+		},
+		{
+			flags = 3
+			steamid = 76561199369368304
+		},
+		{
+			flags = 3
+			steamid = 76561198868605433
+		},
+		{
+			flags = 3
+			steamid = 76561199467099913
+		},
+		{
+			flags = 3
+			steamid = 76561199866923358
+		},
+		{
+			flags = 3
+			steamid = 76561199486807636
+		},
+		{
+			flags = 3
+			steamid = 76561199621062313
+		},
+		{
+			flags = 3
+			steamid = 76561199641782383
+		},
+		{
+			flags = 3
+			steamid = 76561199547962675
+		},
+		{
+			flags = 3
+			steamid = 76561199789649436
+		},
+		{
+			flags = 3
+			steamid = 76561199650195157
+		},
+		{
+			flags = 3
+			steamid = 76561199852393439
+		},
+		{
+			flags = 3
+			steamid = 76561199712740503
+		},
+		{
+			flags = 3
+			steamid = 76561199835489946
+		},
+		{
+			flags = 3
+			steamid = 76561198448206113
+		},
+		{
+			flags = 3
+			steamid = 76561198446347875
+		},
+		{
+			flags = 3
+			steamid = 76561199872075410
+		},
+		{
+			flags = 3
+			steamid = 76561199871428666
+		},
+		{
+			flags = 3
+			steamid = 76561199829841577
+		},
+		{
+			flags = 3
+			steamid = 76561199628070941
+		},
+		{
+			flags = 3
+			steamid = 76561199822724595
+		},
+		{
+			flags = 3
+			steamid = 76561199267150272
+		},
+		{
+			flags = 3
+			steamid = 76561199577858278
+		},
+		{
+			flags = 3
+			steamid = 76561199091243456
+		},
+		{
+			flags = 3
+			steamid = 76561199046867540
+		},
+		{
+			flags = 3
+			steamid = 76561199810232480
+		},
+		{
+			flags = 3
+			steamid = 76561199738401120
+		},
+		{
+			flags = 3
+			steamid = 76561199596698603
+		},
+		{
+			flags = 3
+			steamid = 76561199596726756
+		},
+		{
+			flags = 3
+			steamid = 76561199597794721
+		},
+		{
+			flags = 3
+			steamid = 76561199870556900
+		},
+		{
+			flags = 3
+			steamid = 76561199871060551
+		},
+		{
+			flags = 3
+			steamid = 76561199595108331
+		},
+		{
+			flags = 3
+			steamid = 76561199293938419
+		},
+		{
+			flags = 3
+			steamid = 76561199403140676
+		},
+		{
+			flags = 3
+			steamid = 76561199875172599
+		},
+		{
+			flags = 3
+			steamid = 76561199730685182
+		},
+		{
+			flags = 3
+			steamid = 76561199195924087
+		},
+		{
+			flags = 3
+			steamid = 76561199875592156
+		},
+		{
+			flags = 3
+			steamid = 76561199818333403
+		},
+		{
+			flags = 3
+			steamid = 76561199669727401
+		},
+		{
+			flags = 3
+			steamid = 76561199865843624
+		},
+		{
+			flags = 3
+			steamid = 76561199656956334
+		},
+		{
+			flags = 3
+			steamid = 76561199860955950
+		},
+		{
+			flags = 3
+			steamid = 76561199861098250
+		},
+		{
+			flags = 3
+			steamid = 76561199876410386
+		},
+		{
+			flags = 3
+			steamid = 76561199860930209
+		},
+		{
+			flags = 3
+			steamid = 76561199827124124
+		},
+		{
+			flags = 3
+			steamid = 76561199838540022
+		},
+		{
+			flags = 3
+			steamid = 76561199823322664
+		},
+		{
+			flags = 3
+			steamid = 76561199217652972
+		},
+		{
+			flags = 3
+			steamid = 76561199526371633
+		},
+		{
+			flags = 3
+			steamid = 76561198990628241
+		},
+		{
+			flags = 3
+			steamid = 76561199816238689
+		},
+		{
+			flags = 3
+			steamid = 76561199568184507
+		},
+		{
+			flags = 3
+			steamid = 76561199875702360
+		},
+		{
+			flags = 3
+			steamid = 76561199744286912
+		},
+		{
+			flags = 3
+			steamid = 76561199244840652
+		},
+		{
+			flags = 3
+			steamid = 76561199386573580
+		},
+		{
+			flags = 3
+			steamid = 76561199804088720
+		},
+		{
+			flags = 3
+			steamid = 76561199853669599
+		},
+		{
+			flags = 3
+			steamid = 76561199636686569
+		},
+		{
+			flags = 3
+			steamid = 76561199246333821
+		},
+		{
+			flags = 3
+			steamid = 76561199866909831
+		},
+		{
+			flags = 3
+			steamid = 76561199467607784
+		},
+		{
+			flags = 3
+			steamid = 76561199804017125
+		},
+		{
+			flags = 3
+			steamid = 76561199170546437
+		},
+		{
+			flags = 3
+			steamid = 76561198803161654
+		},
+		{
+			flags = 3
+			steamid = 76561199415106314
+		},
+		{
+			flags = 3
+			steamid = 76561199872369813
+		},
+		{
+			flags = 3
+			steamid = 76561199650997596
+		},
+		{
+			flags = 3
+			steamid = 76561199204636993
+		},
+		{
+			flags = 3
+			steamid = 76561199507871040
+		},
+		{
+			flags = 3
+			steamid = 76561199055019438
+		},
+		{
+			flags = 3
+			steamid = 76561199469517248
+		},
+		{
+			flags = 3
+			steamid = 76561199839056635
+		},
+		{
+			flags = 3
+			steamid = 76561199545419010
+		},
+		{
+			flags = 3
+			steamid = 76561199879451401
+		},
+		{
+			flags = 3
+			steamid = 76561199499266368
+		},
+		{
+			flags = 3
+			steamid = 76561198374211578
+		},
+		{
+			flags = 3
+			steamid = 76561199637051692
+		},
+		{
+			flags = 3
+			steamid = 76561199207885574
+		},
+		{
+			flags = 3
+			steamid = 76561199871945896
+		},
+		{
+			flags = 3
+			steamid = 76561199243460301
+		},
+		{
+			flags = 3
+			steamid = 76561199866313841
+		},
+		{
+			flags = 3
+			steamid = 76561199708037588
+		},
+		{
+			flags = 3
+			steamid = 76561199384310295
+		},
+		{
+			flags = 3
+			steamid = 76561199134436686
+		},
+		{
+			flags = 3
+			steamid = 76561199150622899
+		},
+		{
+			flags = 3
+			steamid = 76561199864904096
+		},
+		{
+			flags = 3
+			steamid = 76561199794232789
+		},
+		{
+			flags = 3
+			steamid = 76561199225337494
+		},
+		{
+			flags = 3
+			steamid = 76561199606046222
+		},
+		{
+			flags = 3
+			steamid = 76561199434639373
+		},
+		{
+			flags = 3
+			steamid = 76561198335316680
+		},
+		{
+			flags = 3
+			steamid = 76561198216250051
+		},
+		{
+			flags = 3
+			steamid = 76561199557170310
+		},
+		{
+			flags = 3
+			steamid = 76561199474636881
+		},
+		{
+			flags = 3
+			steamid = 76561199173886136
+		},
+		{
+			flags = 3
+			steamid = 76561199713274335
+		},
+		{
+			flags = 3
+			steamid = 76561199884930009
+		},
+		{
+			flags = 3
+			steamid = 76561199837546619
+		},
+		{
+			flags = 3
+			steamid = 76561199866622607
+		},
+		{
+			flags = 3
+			steamid = 76561198437667215
+		},
+		{
+			flags = 3
+			steamid = 76561199782408033
+		},
+		{
+			flags = 3
+			steamid = 76561199816292502
+		},
+		{
+			flags = 3
+			steamid = 76561199284605853
+		},
+		{
+			flags = 3
+			steamid = 76561199195932251
+		},
+		{
+			flags = 3
+			steamid = 76561198394659502
+		},
+		{
+			flags = 3
+			steamid = 76561199819264242
+		},
+		{
+			flags = 3
+			steamid = 76561199278913055
+		},
+		{
+			flags = 3
+			steamid = 76561199484999696
+		},
+		{
+			flags = 3
+			steamid = 76561199527367074
+		},
+		{
+			flags = 3
+			steamid = 76561199822288097
+		},
+		{
+			flags = 3
+			steamid = 76561198354954918
+		},
+		{
+			flags = 3
+			steamid = 76561199375653638
+		},
+		{
+			flags = 3
+			steamid = 76561199866019479
+		},
+		{
+			flags = 3
+			steamid = 76561199851585446
+		},
+		{
+			flags = 3
+			steamid = 76561199655847000
+		},
+		{
+			flags = 3
+			steamid = 76561198425690268
+		},
+		{
+			flags = 3
+			steamid = 76561199076019299
+		},
+		{
+			flags = 3
+			steamid = 76561199020912628
+		},
+		{
+			flags = 3
+			steamid = 76561199479729897
+		},
+		{
+			flags = 3
+			steamid = 76561199877293085
+		},
+		{
+			flags = 3
+			steamid = 76561199304065043
+		},
+		{
+			flags = 3
+			steamid = 76561199544785386
+		},
+		{
+			flags = 3
+			steamid = 76561199401888952
+		},
+		{
+			flags = 3
+			steamid = 76561199556421607
+		},
+		{
+			flags = 3
+			steamid = 76561199876324649
+		},
+		{
+			flags = 3
+			steamid = 76561199822118442
+		},
+		{
+			flags = 3
+			steamid = 76561199683223871
+		},
+		{
+			flags = 3
+			steamid = 76561199509687997
+		},
+		{
+			flags = 3
+			steamid = 76561199363323565
+		},
+		{
+			flags = 3
+			steamid = 76561199871176748
+		},
+		{
+			flags = 3
+			steamid = 76561199852096912
+		},
+		{
+			flags = 3
+			steamid = 76561199038589184
+		},
+		{
+			flags = 3
+			steamid = 76561199836143086
+		},
+		{
+			flags = 3
+			steamid = 76561199833093237
+		},
+		{
+			flags = 3
+			steamid = 76561199840452799
+		},
+		{
+			flags = 3
+			steamid = 76561199194213633
+		},
+		{
+			flags = 3
+			steamid = 76561199759186243
+		},
+		{
+			flags = 3
+			steamid = 76561199698301896
+		},
+		{
+			flags = 3
+			steamid = 76561199690573634
+		},
+		{
+			flags = 3
+			steamid = 76561199748295147
+		},
+		{
+			flags = 3
+			steamid = 76561199851208095
+		},
+		{
+			flags = 3
+			steamid = 76561199868138638
+		},
+		{
+			flags = 3
+			steamid = 76561199821143115
+		},
+		{
+			flags = 3
+			steamid = 76561199855822447
+		},
+		{
+			flags = 3
+			steamid = 76561199390298046
+		},
+		{
+			flags = 3
+			steamid = 76561199439335215
+		},
+		{
+			flags = 3
+			steamid = 76561199868507297
+		},
+		{
+			flags = 3
+			steamid = 76561199559805520
+		},
+		{
+			flags = 3
+			steamid = 76561198959770097
+		},
+		{
+			flags = 3
+			steamid = 76561199885211245
+		},
+		{
+			flags = 3
+			steamid = 76561199222080249
+		},
+		{
+			flags = 3
+			steamid = 76561199820468922
+		},
+		{
+			flags = 3
+			steamid = 76561199867621392
+		},
+		{
+			flags = 3
+			steamid = 76561199465559369
+		},
+		{
+			flags = 3
+			steamid = 76561199864647426
+		},
+		{
+			flags = 3
+			steamid = 76561199517969799
+		},
+		{
+			flags = 3
+			steamid = 76561199766474687
+		},
+		{
+			flags = 3
+			steamid = 76561199868585508
+		},
+		{
+			flags = 3
+			steamid = 76561199232715702
+		},
+		{
+			flags = 3
+			steamid = 76561199869972917
+		},
+		{
+			flags = 3
+			steamid = 76561199880106722
+		},
+		{
+			flags = 3
+			steamid = 76561199508569211
+		},
+		{
+			flags = 3
+			steamid = 76561199780721991
+		},
+		{
+			flags = 3
+			steamid = 76561199472906422
+		},
+		{
+			flags = 3
+			steamid = 76561199878266127
+		},
+		{
+			flags = 3
+			steamid = 76561199515231200
+		},
+		{
+			flags = 3
+			steamid = 76561199368433869
+		},
+		{
+			flags = 3
+			steamid = 76561199089123388
+		},
+		{
+			flags = 3
+			steamid = 76561199077080097
+		},
+		{
+			flags = 3
+			steamid = 76561199672343745
+		},
+		{
+			flags = 3
+			steamid = 76561199006271468
+		},
+		{
+			flags = 3
+			steamid = 76561199731029425
+		},
+		{
+			flags = 3
+			steamid = 76561199844474416
+		},
+		{
+			flags = 3
+			steamid = 76561199885122329
+		},
+		{
+			flags = 3
+			steamid = 76561199252978448
+		},
+		{
+			flags = 3
+			steamid = 76561199544291885
+		},
+		{
+			flags = 3
+			steamid = 76561199829787644
+		},
+		{
+			flags = 3
+			steamid = 76561199275330167
+		},
+		{
+			flags = 3
+			steamid = 76561198112384788
+		},
+		{
+			flags = 3
+			steamid = 76561199887766363
+		},
+		{
+			flags = 3
+			steamid = 76561199876364411
+		},
+		{
+			flags = 3
+			steamid = 76561199816288933
+		},
+		{
+			flags = 3
+			steamid = 76561199873081670
+		},
+		{
+			flags = 3
+			steamid = 76561199792362190
+		},
+		{
+			flags = 3
+			steamid = 76561199877542117
+		},
+		{
+			flags = 3
+			steamid = 76561199825886299
+		},
+		{
+			flags = 3
+			steamid = 76561199838858915
+		},
+		{
+			flags = 3
+			steamid = 76561199879110257
+		},
+		{
+			flags = 3
+			steamid = 76561199563056995
+		},
+		{
+			flags = 3
+			steamid = 76561199732902196
+		},
+		{
+			flags = 3
+			steamid = 76561199881758409
+		},
+		{
+			flags = 3
+			steamid = 76561199766646013
+		},
+		{
+			flags = 3
+			steamid = 76561199888030545
+		},
+		{
+			flags = 3
+			steamid = 76561199384674347
+		},
+		{
+			flags = 3
+			steamid = 76561199280481019
+		},
+		{
+			flags = 3
+			steamid = 76561199705458483
+		},
+		{
+			flags = 3
+			steamid = 76561199872024708
+		},
+		{
+			flags = 3
+			steamid = 76561199025416148
+		},
+		{
+			flags = 3
+			steamid = 76561199885587734
+		},
+		{
+			flags = 3
+			steamid = 76561199882974804
+		},
+		{
+			flags = 3
+			steamid = 76561199495879904
+		},
+		{
+			flags = 3
+			steamid = 76561199154269351
+		},
+		{
+			flags = 3
+			steamid = 76561199214053358
+		},
+		{
+			flags = 3
+			steamid = 76561199318619988
+		},
+		{
+			flags = 3
+			steamid = 76561199566172521
+		},
+		{
+			flags = 3
+			steamid = 76561199570105217
+		},
+		{
+			flags = 3
+			steamid = 76561198421929607
+		},
+		{
+			flags = 3
+			steamid = 76561199356761183
+		},
+		{
+			flags = 3
+			steamid = 76561199810657899
+		},
+		{
+			flags = 3
+			steamid = 76561199481690165
+		},
+		{
+			flags = 3
+			steamid = 76561199528456442
+		},
+		{
+			flags = 3
+			steamid = 76561199247384514
+		},
+		{
+			flags = 3
+			steamid = 76561199869164563
+		},
+		{
+			flags = 3
+			steamid = 76561199232994579
+		},
+		{
+			flags = 3
+			steamid = 76561199870975809
+		},
+		{
+			flags = 3
+			steamid = 76561199523088128
+		},
+		{
+			flags = 3
+			steamid = 76561199521858848
+		},
+		{
+			flags = 3
+			steamid = 76561199258691861
+		},
+		{
+			flags = 3
+			steamid = 76561198815413579
+		},
+		{
+			flags = 3
+			steamid = 76561199880998637
+		},
+		{
+			flags = 3
+			steamid = 76561199762172802
+		},
+		{
+			flags = 3
+			steamid = 76561199514037653
+		},
+		{
+			flags = 3
+			steamid = 76561199739504308
+		},
+		{
+			flags = 3
+			steamid = 76561199883652792
+		},
+		{
+			flags = 3
+			steamid = 76561199490253508
+		},
+		{
+			flags = 3
+			steamid = 76561199833415149
+		},
+		{
+			flags = 3
+			steamid = 76561199887161467
+		},
+		{
+			flags = 3
+			steamid = 76561199888018926
+		},
+		{
+			flags = 3
+			steamid = 76561199542067210
+		},
+		{
+			flags = 3
+			steamid = 76561199608392875
+		},
+		{
+			flags = 3
+			steamid = 76561199760383854
+		},
+		{
+			flags = 3
+			steamid = 76561199866316784
+		},
+		{
+			flags = 3
+			steamid = 76561199525840155
+		},
+		{
+			flags = 3
+			steamid = 76561199888297572
+		},
+		{
+			flags = 3
+			steamid = 76561199400024250
+		},
+		{
+			flags = 3
+			steamid = 76561199732791413
+		},
+		{
+			flags = 3
+			steamid = 76561199436559459
+		},
+		{
+			flags = 3
+			steamid = 76561199873887895
+		},
+		{
+			flags = 3
+			steamid = 76561199888747355
+		},
+		{
+			flags = 3
+			steamid = 76561199885659140
+		},
+		{
+			flags = 3
+			steamid = 76561199882008995
+		},
+		{
+			flags = 3
+			steamid = 76561199538662055
+		},
+		{
+			flags = 3
+			steamid = 76561199866024012
+		},
+		{
+			flags = 3
+			steamid = 76561199818198962
+		},
+		{
+			flags = 3
+			steamid = 76561199877350153
+		},
+		{
+			flags = 3
+			steamid = 76561199869204024
+		},
+		{
+			flags = 3
+			steamid = 76561199817447599
+		},
+		{
+			flags = 3
+			steamid = 76561199702636744
+		},
+		{
+			flags = 3
+			steamid = 76561199341042299
+		},
+		{
+			flags = 3
+			steamid = 76561198408144032
+		},
+		{
+			flags = 3
+			steamid = 76561199859334325
+		},
+		{
+			flags = 3
+			steamid = 76561199888708417
+		},
+		{
+			flags = 3
+			steamid = 76561199871616971
+		},
+		{
+			flags = 3
+			steamid = 76561199758888005
+		},
+		{
+			flags = 3
+			steamid = 76561199879878487
+		},
+		{
+			flags = 3
+			steamid = 76561199871643534
+		},
+		{
+			flags = 3
+			steamid = 76561199707189713
+		},
+		{
+			flags = 3
+			steamid = 76561199820833151
+		},
+		{
+			flags = 3
+			steamid = 76561198817679937
+		},
+		{
+			flags = 3
+			steamid = 76561199208934574
+		},
+		{
+			flags = 3
+			steamid = 76561199158375399
+		},
+		{
+			flags = 3
+			steamid = 76561199644172826
+		},
+		{
+			flags = 3
+			steamid = 76561199800470058
+		},
+		{
+			flags = 3
+			steamid = 76561199081786221
+		},
+		{
+			flags = 3
+			steamid = 76561198990571409
+		},
+		{
+			flags = 3
+			steamid = 76561199874565671
+		},
+		{
+			flags = 3
+			steamid = 76561199318377167
+		},
+		{
+			flags = 3
+			steamid = 76561199276102082
+		},
+		{
+			flags = 3
+			steamid = 76561199771408308
+		},
+		{
+			flags = 3
+			steamid = 76561199747575135
+		},
+		{
+			flags = 3
+			steamid = 76561198794281270
+		},
+		{
+			flags = 3
+			steamid = 76561199863550655
+		},
+		{
+			flags = 3
+			steamid = 76561199369544487
+		},
+		{
+			flags = 3
+			steamid = 76561199862639917
+		},
+		{
+			flags = 3
+			steamid = 76561199826502810
+		},
+		{
+			flags = 3
+			steamid = 76561199869448585
+		},
+		{
+			flags = 3
+			steamid = 76561199756501943
+		},
+		{
+			flags = 3
+			steamid = 76561199710714298
+		},
+		{
+			flags = 3
+			steamid = 76561199865743735
+		},
+		{
+			flags = 3
+			steamid = 76561199880906245
+		},
+		{
+			flags = 3
+			steamid = 76561199260357261
+		},
+		{
+			flags = 3
+			steamid = 76561199828987756
+		},
+		{
+			flags = 3
+			steamid = 76561199033499031
+		},
+		{
+			flags = 3
+			steamid = 76561199867748027
+		},
+		{
+			flags = 3
+			steamid = 76561199540280625
+		},
+		{
+			flags = 3
+			steamid = 76561199871600418
+		},
+		{
+			flags = 3
+			steamid = 76561199063058525
+		},
+		{
+			flags = 3
+			steamid = 76561199888855930
+		},
+		{
+			flags = 3
+			steamid = 76561199799025527
+		},
+		{
+			flags = 3
+			steamid = 76561198453669589
+		},
+		{
+			flags = 3
+			steamid = 76561199867889432
+		},
+		{
+			flags = 3
+			steamid = 76561198344998701
+		},
+		{
+			flags = 3
+			steamid = 76561199869287237
+		},
+		{
+			flags = 3
+			steamid = 76561199872979519
+		},
+		{
+			flags = 3
+			steamid = 76561199742170038
+		},
+		{
+			flags = 3
+			steamid = 76561199193277091
+		},
+		{
+			flags = 3
+			steamid = 76561199567035606
+		},
+		{
+			flags = 3
+			steamid = 76561198794240414
+		},
+		{
+			flags = 3
+			steamid = 76561198996025730
+		},
+		{
+			flags = 3
+			steamid = 76561199778969882
+		},
+		{
+			flags = 3
+			steamid = 76561199823509778
+		},
+		{
+			flags = 3
+			steamid = 76561198447110224
+		},
+		{
+			flags = 3
+			steamid = 76561199882988055
+		},
+		{
+			flags = 3
+			steamid = 76561199880520796
+		},
+		{
+			flags = 3
+			steamid = 76561199645742217
+		},
+		{
+			flags = 3
+			steamid = 76561199875517986
+		},
+		{
+			flags = 3
+			steamid = 76561198989718597
+		},
+		{
+			flags = 3
+			steamid = 76561198868930984
+		},
+		{
+			flags = 3
+			steamid = 76561199869230589
+		},
+		{
+			flags = 3
+			steamid = 76561199105747723
+		},
+		{
+			flags = 3
+			steamid = 76561199778341387
+		},
+		{
+			flags = 3
+			steamid = 76561199874585229
+		},
+		{
+			flags = 3
+			steamid = 76561199752668628
+		},
+		{
+			flags = 3
+			steamid = 76561199868339638
+		},
+		{
+			flags = 3
+			steamid = 76561199878432884
+		},
+		{
+			flags = 3
+			steamid = 76561198926054071
+		},
+		{
+			flags = 3
+			steamid = 76561199409279219
+		},
+		{
+			flags = 3
+			steamid = 76561199581723457
+		},
+		{
+			flags = 3
+			steamid = 76561199764959563
+		},
+		{
+			flags = 3
+			steamid = 76561198319221912
+		},
+		{
+			flags = 3
+			steamid = 76561199551871210
+		},
+		{
+			flags = 3
+			steamid = 76561199842279798
+		},
+		{
+			flags = 3
+			steamid = 76561199884456534
+		},
+		{
+			flags = 3
+			steamid = 76561199843822069
+		},
+		{
+			flags = 3
+			steamid = 76561199873696425
+		},
+		{
+			flags = 3
+			steamid = 76561199815692822
+		},
+		{
+			flags = 3
+			steamid = 76561199788885535
+		},
+		{
+			flags = 3
+			steamid = 76561198794878856
+		},
+		{
+			flags = 3
+			steamid = 76561199700708924
+		},
+		{
+			flags = 3
+			steamid = 76561199684912395
+		},
+		{
+			flags = 3
+			steamid = 76561199496803134
+		},
+		{
+			flags = 3
+			steamid = 76561199227831530
+		},
+		{
+			flags = 3
+			steamid = 76561199756133099
+		},
+		{
+			flags = 3
+			steamid = 76561199802955736
+		},
+		{
+			flags = 3
+			steamid = 76561199615097324
+		},
+		{
+			flags = 3
+			steamid = 76561199243556135
+		},
+		{
+			flags = 3
+			steamid = 76561199699010629
+		},
+		{
+			flags = 3
+			steamid = 76561199869416075
+		},
+		{
+			flags = 3
+			steamid = 76561199877156585
+		},
+		{
+			flags = 3
+			steamid = 76561199805266952
+		},
+		{
+			flags = 3
+			steamid = 76561199835930111
+		},
+		{
+			flags = 3
+			steamid = 76561199870226416
+		},
+		{
+			flags = 3
+			steamid = 76561199881224806
+		},
+		{
+			flags = 3
+			steamid = 76561199884420111
+		},
+		{
+			flags = 3
+			steamid = 76561199779996643
+		},
+		{
+			flags = 3
+			steamid = 76561199754841021
+		},
+		{
+			flags = 3
+			steamid = 76561199871551739
+		},
+		{
+			flags = 3
+			steamid = 76561199887758658
+		},
+		{
+			flags = 3
+			steamid = 76561199803947753
+		},
+		{
+			flags = 3
+			steamid = 76561199773766550
+		},
+		{
+			flags = 3
+			steamid = 76561199871016568
+		},
+		{
+			flags = 3
+			steamid = 76561199815679370
+		},
+		{
+			flags = 3
+			steamid = 76561199821725283
+		},
+		{
+			flags = 3
+			steamid = 76561199873811509
+		},
+		{
+			flags = 3
+			steamid = 76561199872791187
+		},
+		{
+			flags = 3
+			steamid = 76561199881991742
+		},
+		{
+			flags = 3
+			steamid = 76561199730612875
+		},
+		{
+			flags = 3
+			steamid = 76561199871180181
+		},
+		{
+			flags = 3
+			steamid = 76561199850517042
+		},
+		{
+			flags = 3
+			steamid = 76561199804230596
+		},
+		{
+			flags = 3
+			steamid = 76561199239936635
+		},
+		{
+			flags = 3
+			steamid = 76561199864781867
+		},
+		{
+			flags = 3
+			steamid = 76561199843628335
+		},
+		{
+			flags = 3
+			steamid = 76561199006314005
+		},
+		{
+			flags = 3
+			steamid = 76561199758471068
+		},
+		{
+			flags = 3
+			steamid = 76561199738416250
+		},
+		{
+			flags = 3
+			steamid = 76561199223540370
+		},
+		{
+			flags = 3
+			steamid = 76561199727097822
+		},
+		{
+			flags = 3
+			steamid = 76561199561934091
+		},
+		{
+			flags = 3
+			steamid = 76561199888200708
+		},
+		{
+			flags = 3
+			steamid = 76561199260891058
+		},
+		{
+			flags = 3
+			steamid = 76561199848306694
+		},
+		{
+			flags = 3
+			steamid = 76561199770690242
+		},
+		{
+			flags = 3
+			steamid = 76561199791473888
+		},
+		{
+			flags = 3
+			steamid = 76561199831490550
+		},
+		{
+			flags = 3
+			steamid = 76561199489147763
+		},
+		{
+			flags = 3
+			steamid = 76561199867937308
+		},
+		{
+			flags = 3
+			steamid = 76561199043891236
+		},
+		{
+			flags = 3
+			steamid = 76561199804486037
+		},
+		{
+			flags = 3
+			steamid = 76561199871111677
+		},
+		{
+			flags = 3
+			steamid = 76561199849165280
+		},
+		{
+			flags = 3
+			steamid = 76561199702581847
+		},
+		{
+			flags = 3
+			steamid = 76561199651857434
+		},
+		{
+			flags = 3
+			steamid = 76561198791909198
+		},
+		{
+			flags = 3
+			steamid = 76561199888316988
+		},
+		{
+			flags = 3
+			steamid = 76561199889737084
+		},
+		{
+			flags = 3
+			steamid = 76561199483531844
+		},
+		{
+			flags = 3
+			steamid = 76561199858148215
+		},
+		{
+			flags = 3
+			steamid = 76561199876721756
+		},
+		{
+			flags = 3
+			steamid = 76561199540223442
+		},
+		{
+			flags = 3
+			steamid = 76561199878823505
+		},
+		{
+			flags = 3
+			steamid = 76561199522909884
+		},
+		{
+			flags = 3
+			steamid = 76561199870753717
+		},
+		{
+			flags = 3
+			steamid = 76561199574944152
+		},
+		{
+			flags = 3
+			steamid = 76561199506296611
+		},
+		{
+			flags = 3
+			steamid = 76561199501769331
+		},
+		{
+			flags = 3
+			steamid = 76561199105712169
+		},
+		{
+			flags = 3
+			steamid = 76561199181151559
+		},
+		{
+			flags = 3
+			steamid = 76561199243737138
+		},
+		{
+			flags = 3
+			steamid = 76561199801570134
+		},
+		{
+			flags = 3
+			steamid = 76561199661371689
+		},
+		{
+			flags = 3
+			steamid = 76561199886556672
+		},
+		{
+			flags = 3
+			steamid = 76561198888648081
+		},
+		{
+			flags = 3
+			steamid = 76561199249625655
+		},
+		{
+			flags = 3
+			steamid = 76561199680654047
+		},
+		{
+			flags = 3
+			steamid = 76561199877058543
+		},
+		{
+			flags = 3
+			steamid = 76561199806911147
+		},
+		{
+			flags = 3
+			steamid = 76561199191193011
+		},
+		{
+			flags = 3
+			steamid = 76561199188760764
+		},
+		{
+			flags = 3
+			steamid = 76561199701057345
+		},
+		{
+			flags = 3
+			steamid = 76561199803120941
+		},
+		{
+			flags = 3
+			steamid = 76561198384126334
+		},
+		{
+			flags = 3
+			steamid = 76561199547251135
+		},
+		{
+			flags = 3
+			steamid = 76561199876983124
+		},
+		{
+			flags = 3
+			steamid = 76561199500750484
+		},
+		{
+			flags = 3
+			steamid = 76561199387709573
+		},
+		{
+			flags = 3
+			steamid = 76561198987767853
+		},
+		{
+			flags = 3
+			steamid = 76561199885286821
+		},
+		{
+			flags = 3
+			steamid = 76561199541129151
+		},
+		{
+			flags = 3
+			steamid = 76561198816462678
+		},
+		{
+			flags = 3
+			steamid = 76561199225383017
+		},
+		{
+			flags = 3
+			steamid = 76561199395683814
+		},
+		{
+			flags = 3
+			steamid = 76561199249781642
+		},
+		{
+			flags = 3
+			steamid = 76561199831840273
+		},
+		{
+			flags = 3
+			steamid = 76561199258146206
+		},
+		{
+			flags = 3
+			steamid = 76561199568104180
+		},
+		{
+			flags = 3
+			steamid = 76561199237141579
+		},
+		{
+			flags = 3
+			steamid = 76561199634888769
+		},
+		{
+			flags = 3
+			steamid = 76561199613514423
+		},
+		{
+			flags = 3
+			steamid = 76561199767187568
+		},
+		{
+			flags = 3
+			steamid = 76561199864555303
+		},
+		{
+			flags = 3
+			steamid = 76561199030729180
+		},
+		{
+			flags = 3
+			steamid = 76561199210161867
+		},
+		{
+			flags = 3
+			steamid = 76561199644228104
+		},
+		{
+			flags = 3
+			steamid = 76561199684129832
+		},
+		{
+			flags = 3
+			steamid = 76561199427367807
+		},
+		{
+			flags = 3
+			steamid = 76561199768299242
+		},
+		{
+			flags = 3
+			steamid = 76561199816414194
+		},
+		{
+			flags = 3
+			steamid = 76561199860511238
+		},
+		{
+			flags = 3
+			steamid = 76561199759223282
+		},
+		{
+			flags = 3
+			steamid = 76561199349941554
+		},
+		{
+			flags = 3
+			steamid = 76561199886962400
+		},
+		{
+			flags = 3
+			steamid = 76561198447544808
+		},
+		{
+			flags = 3
+			steamid = 76561198151579162
+		},
+		{
+			flags = 3
+			steamid = 76561199712439931
+		},
+		{
+			flags = 3
+			steamid = 76561199887058333
+		},
+		{
+			flags = 3
+			steamid = 76561199807728765
+		},
+		{
+			flags = 3
+			steamid = 76561198853164316
+		},
+		{
+			flags = 3
+			steamid = 76561199002695029
+		},
+		{
+			flags = 3
+			steamid = 76561198792965310
+		},
+		{
+			flags = 3
+			steamid = 76561199767433226
+		},
+		{
+			flags = 3
+			steamid = 76561199061942595
+		},
+		{
+			flags = 3
+			steamid = 76561198812027659
+		},
+		{
+			flags = 3
+			steamid = 76561199155593776
+		},
+		{
+			flags = 3
+			steamid = 76561199214845732
+		},
+		{
+			flags = 3
+			steamid = 76561199472254540
+		},
+		{
+			flags = 3
+			steamid = 76561199519121554
+		},
+		{
+			flags = 3
+			steamid = 76561199751119043
+		},
+		{
+			flags = 3
+			steamid = 76561198380061082
+		},
+		{
+			flags = 3
+			steamid = 76561199443656293
+		},
+		{
+			flags = 3
+			steamid = 76561199849477048
+		},
+		{
+			flags = 3
+			steamid = 76561199145458198
+		},
+		{
+			flags = 3
+			steamid = 76561199863853686
+		},
+		{
+			flags = 3
+			steamid = 76561199886813778
+		},
+		{
+			flags = 3
+			steamid = 76561199760260671
+		},
+		{
+			flags = 3
+			steamid = 76561199856522356
+		},
+		{
+			flags = 3
+			steamid = 76561199855208965
+		},
+		{
+			flags = 3
+			steamid = 76561199837505212
+		},
+		{
+			flags = 3
+			steamid = 76561199474043083
+		},
+		{
+			flags = 3
+			steamid = 76561198992162066
+		},
+		{
+			flags = 3
+			steamid = 76561199767596917
+		},
+		{
+			flags = 3
+			steamid = 76561199783172270
+		},
+		{
+			flags = 3
+			steamid = 76561199736354727
+		},
+		{
+			flags = 3
+			steamid = 76561198047626516
+		},
+		{
+			flags = 3
+			steamid = 76561199182315149
+		},
+		{
+			flags = 3
+			steamid = 76561199879737308
+		},
+		{
+			flags = 3
+			steamid = 76561199882624419
+		},
+		{
+			flags = 3
+			steamid = 76561199602741573
+		},
+		{
+			flags = 3
+			steamid = 76561198433496220
+		},
+		{
+			flags = 3
+			steamid = 76561198790582676
+		},
+		{
+			flags = 3
+			steamid = 76561198973283824
+		},
+		{
+			flags = 3
+			steamid = 76561198790017962
+		},
+		{
+			flags = 3
+			steamid = 76561199760858889
+		},
+		{
+			flags = 3
+			steamid = 76561199436710938
+		},
+		{
+			flags = 3
+			steamid = 76561199799404303
+		},
+		{
+			flags = 3
+			steamid = 76561198237887844
+		},
+		{
+			flags = 3
+			steamid = 76561199141485528
+		},
+		{
+			flags = 3
+			steamid = 76561199659306129
+		},
+		{
+			flags = 3
+			steamid = 76561199528556836
+		},
+		{
+			flags = 3
+			steamid = 76561199516011793
+		},
+		{
+			flags = 3
+			steamid = 76561198795171655
+		},
+		{
+			flags = 3
+			steamid = 76561199562011832
+		},
+		{
+			flags = 3
+			steamid = 76561199849471153
+		},
+		{
+			flags = 3
+			steamid = 76561199290150901
+		},
+		{
+			flags = 3
+			steamid = 76561199861247591
+		},
+		{
+			flags = 3
+			steamid = 76561199198342403
+		},
+		{
+			flags = 3
+			steamid = 76561199886109022
+		},
+		{
+			flags = 3
+			steamid = 76561199548819699
+		},
+		{
+			flags = 3
+			steamid = 76561199852581080
+		},
+		{
+			flags = 3
+			steamid = 76561199513074207
+		},
+		{
+			flags = 3
+			steamid = 76561199869396906
+		},
+		{
+			flags = 3
+			steamid = 76561199813665333
+		},
+		{
+			flags = 3
+			steamid = 76561199627130373
+		},
+		{
+			flags = 3
+			steamid = 76561199809279710
+		},
+		{
+			flags = 3
+			steamid = 76561199239015844
+		},
+		{
+			flags = 3
+			steamid = 76561199209720915
+		},
+		{
+			flags = 3
+			steamid = 76561199831055519
+		},
+		{
+			flags = 3
+			steamid = 76561199846917093
+		},
+		{
+			flags = 3
+			steamid = 76561199347117337
+		},
+		{
+			flags = 3
+			steamid = 76561199877347598
+		},
+		{
+			flags = 3
+			steamid = 76561199496229965
+		},
+		{
+			flags = 3
+			steamid = 76561199506376043
+		},
+		{
+			flags = 3
+			steamid = 76561199815020621
+		},
+		{
+			flags = 3
+			steamid = 76561199869547522
+		},
+		{
+			flags = 3
+			steamid = 76561198793943397
+		},
+		{
+			flags = 3
+			steamid = 76561198795330156
+		},
+		{
+			flags = 3
+			steamid = 76561199261726413
+		},
+		{
+			flags = 3
+			steamid = 76561199619853434
+		},
+		{
+			flags = 3
+			steamid = 76561199825307857
+		},
+		{
+			flags = 3
+			steamid = 76561199185530795
+		},
+		{
+			flags = 3
+			steamid = 76561199832970257
+		},
+		{
+			flags = 3
+			steamid = 76561199824301241
+		},
+		{
+			flags = 3
+			steamid = 76561199752545409
+		},
+		{
+			flags = 3
+			steamid = 76561199834012663
+		},
+		{
+			flags = 3
+			steamid = 76561198839929728
+		},
+		{
+			flags = 3
+			steamid = 76561198981670217
+		},
+		{
+			flags = 3
+			steamid = 76561199527693379
+		},
+		{
+			flags = 3
+			steamid = 76561199542680115
+		},
+		{
+			flags = 3
+			steamid = 76561199888090235
+		},
+		{
+			flags = 3
+			steamid = 76561199865574266
+		},
+		{
+			flags = 3
+			steamid = 76561198417930993
+		},
+		{
+			flags = 3
+			steamid = 76561198794643518
+		},
+		{
+			flags = 3
+			steamid = 76561199557981111
+		},
+		{
+			flags = 3
+			steamid = 76561199472879778
+		},
+		{
+			flags = 3
+			steamid = 76561199882798759
+		},
+		{
+			flags = 3
+			steamid = 76561199798749045
+		},
+		{
+			flags = 3
+			steamid = 76561199607021702
+		},
+		{
+			flags = 3
+			steamid = 76561199495889182
+		},
+		{
+			flags = 3
+			steamid = 76561199711250324
+		},
+		{
+			flags = 3
+			steamid = 76561199871950827
+		},
+		{
+			flags = 3
+			steamid = 76561199611788347
+		},
+		{
+			flags = 3
+			steamid = 76561199817154813
+		},
+		{
+			flags = 3
+			steamid = 76561199865135616
+		},
+		{
+			flags = 3
+			steamid = 76561199160105490
+		},
+		{
+			flags = 3
+			steamid = 76561199712560952
+		},
+		{
+			flags = 3
+			steamid = 76561199186226422
+		},
+		{
+			flags = 3
+			steamid = 76561199867522269
+		},
+		{
+			flags = 3
+			steamid = 76561198368312731
+		},
+		{
+			flags = 3
+			steamid = 76561199864346294
+		},
+		{
+			flags = 3
+			steamid = 76561198404451235
+		},
+		{
+			flags = 3
+			steamid = 76561199639248478
+		},
+		{
+			flags = 3
+			steamid = 76561199545000547
+		},
+		{
+			flags = 3
+			steamid = 76561199748778421
+		},
+		{
+			flags = 3
+			steamid = 76561199768560556
+		},
+		{
+			flags = 3
+			steamid = 76561199219274908
+		},
+		{
+			flags = 3
+			steamid = 76561199712195506
+		},
+		{
+			flags = 3
+			steamid = 76561199601523000
+		},
+		{
+			flags = 3
+			steamid = 76561199420446623
+		},
+		{
+			flags = 3
+			steamid = 76561199642758803
+		},
+		{
+			flags = 3
+			steamid = 76561199232992398
+		},
+		{
+			flags = 3
+			steamid = 76561199828854592
+		},
+		{
+			flags = 3
+			steamid = 76561199785885515
+		},
+		{
+			flags = 3
+			steamid = 76561199706770410
+		},
+		{
+			flags = 3
+			steamid = 76561198792351896
+		},
+		{
+			flags = 3
+			steamid = 76561199184226898
+		},
+		{
+			flags = 3
+			steamid = 76561199810925548
+		},
+		{
+			flags = 3
+			steamid = 76561199823089911
+		},
+		{
+			flags = 3
+			steamid = 76561199865848517
+		},
+		{
+			flags = 3
+			steamid = 76561199260880714
+		},
+		{
+			flags = 3
+			steamid = 76561199417021862
+		},
+		{
+			flags = 3
+			steamid = 76561199772081480
+		},
+		{
+			flags = 3
+			steamid = 76561199566636201
+		},
+		{
+			flags = 3
+			steamid = 76561199160283858
+		},
+		{
+			flags = 3
+			steamid = 76561199590208656
+		},
+		{
+			flags = 3
+			steamid = 76561199820717407
+		},
+		{
+			flags = 3
+			steamid = 76561199405265004
+		},
+		{
+			flags = 3
+			steamid = 76561199244428768
+		},
+		{
+			flags = 3
+			steamid = 76561199036675820
+		},
+		{
+			flags = 3
+			steamid = 76561199714752206
+		},
+		{
+			flags = 3
+			steamid = 76561199499742841
+		},
+		{
+			flags = 3
+			steamid = 76561199493170495
+		},
+		{
+			flags = 3
+			steamid = 76561199752320777
+		},
+		{
+			flags = 3
+			steamid = 76561199764166268
+		},
+		{
+			flags = 3
+			steamid = 76561199832997685
+		},
+		{
+			flags = 3
+			steamid = 76561199826312446
+		},
+		{
+			flags = 3
+			steamid = 76561199226446351
+		},
+		{
+			flags = 3
+			steamid = 76561199790414958
+		},
+		{
+			flags = 3
+			steamid = 76561199433001815
+		},
+		{
+			flags = 3
+			steamid = 76561199446572648
+		},
+		{
+			flags = 3
+			steamid = 76561199511491537
+		},
+		{
+			flags = 3
+			steamid = 76561199381947447
+		},
+		{
+			flags = 3
+			steamid = 76561199179103615
+		},
+		{
+			flags = 3
+			steamid = 76561199520951875
+		},
+		{
+			flags = 3
+			steamid = 76561199640136288
+		},
+		{
+			flags = 3
+			steamid = 76561199650090773
+		},
+		{
+			flags = 3
+			steamid = 76561199243801073
+		},
+		{
+			flags = 3
+			steamid = 76561199798840565
+		},
+		{
+			flags = 3
+			steamid = 76561199473276712
+		},
+		{
+			flags = 3
+			steamid = 76561199860005344
+		},
+		{
+			flags = 3
+			steamid = 76561199427486961
+		},
+		{
+			flags = 3
+			steamid = 76561199840810339
+		},
+		{
+			flags = 3
+			steamid = 76561199864077500
+		},
+		{
+			flags = 3
+			steamid = 76561198340758730
+		},
+		{
+			flags = 3
+			steamid = 76561199868904923
+		},
+		{
+			flags = 3
+			steamid = 76561199756063996
+		},
+		{
+			flags = 3
+			steamid = 76561198842871400
+		},
+		{
+			flags = 3
+			steamid = 76561199857690108
+		},
+		{
+			flags = 3
+			steamid = 76561199849117569
+		},
+		{
+			flags = 3
+			steamid = 76561199198707968
+		},
+		{
+			flags = 3
+			steamid = 76561199689353394
+		},
+		{
+			flags = 3
+			steamid = 76561199160944954
+		},
+		{
+			flags = 3
+			steamid = 76561199825189189
+		},
+		{
+			flags = 3
+			steamid = 76561199096371665
+		},
+		{
+			flags = 3
+			steamid = 76561198975291148
+		},
+		{
+			flags = 3
+			steamid = 76561199507450249
+		},
+		{
+			flags = 3
+			steamid = 76561199564455950
+		},
+		{
+			flags = 3
+			steamid = 76561199780822781
+		},
+		{
+			flags = 3
+			steamid = 76561199452402504
+		},
+		{
+			flags = 3
+			steamid = 76561199852551829
+		},
+		{
+			flags = 3
+			steamid = 76561199078783289
+		},
+		{
+			flags = 3
+			steamid = 76561199187100517
+		},
+		{
+			flags = 3
+			steamid = 76561199880947873
+		},
+		{
+			flags = 3
+			steamid = 76561199764080430
+		},
+		{
+			flags = 3
+			steamid = 76561199651557107
+		},
+		{
+			flags = 3
+			steamid = 76561199030933483
+		},
+		{
+			flags = 3
+			steamid = 76561199861243494
+		},
+		{
+			flags = 3
+			steamid = 76561199878262674
+		},
+		{
+			flags = 3
+			steamid = 76561199782983809
+		},
+		{
+			flags = 3
+			steamid = 76561199848512622
+		},
+		{
+			flags = 3
+			steamid = 76561199552102757
+		},
+		{
+			flags = 3
+			steamid = 76561199871190602
+		},
+		{
+			flags = 3
+			steamid = 76561199651963067
+		},
+		{
+			flags = 3
+			steamid = 76561199772684241
+		},
+		{
+			flags = 3
+			steamid = 76561199561413258
+		},
+		{
+			flags = 3
+			steamid = 76561199812363786
+		},
+		{
+			flags = 3
+			steamid = 76561199810776515
+		},
+		{
+			flags = 3
+			steamid = 76561199753972069
+		},
+		{
+			flags = 3
+			steamid = 76561198415730436
+		},
+		{
+			flags = 3
+			steamid = 76561199423123995
+		},
+		{
+			flags = 3
+			steamid = 76561199445610923
+		},
+		{
+			flags = 3
+			steamid = 76561199028884556
+		},
+		{
+			flags = 3
+			steamid = 76561199390417027
+		},
+		{
+			flags = 3
+			steamid = 76561198398315550
+		},
+		{
+			flags = 3
+			steamid = 76561199735014386
+		},
+		{
+			flags = 3
+			steamid = 76561199780436206
+		},
+		{
+			flags = 3
+			steamid = 76561199657899021
+		},
+		{
+			flags = 3
+			steamid = 76561199691232316
+		},
+		{
+			flags = 3
+			steamid = 76561199576775575
+		},
+		{
+			flags = 3
+			steamid = 76561199570955955
+		},
+		{
+			flags = 3
+			steamid = 76561199409956113
+		},
+		{
+			flags = 3
+			steamid = 76561199632198498
+		},
+		{
+			flags = 3
+			steamid = 76561199767577702
+		},
+		{
+			flags = 3
+			steamid = 76561199557593118
+		},
+		{
+			flags = 3
+			steamid = 76561199636547200
+		},
+		{
+			flags = 3
+			steamid = 76561199211930437
+		},
+		{
+			flags = 3
+			steamid = 76561199267819896
+		},
+		{
+			flags = 3
+			steamid = 76561199215996357
+		},
+		{
+			flags = 3
+			steamid = 76561199536073216
+		},
+		{
+			flags = 3
+			steamid = 76561199162524858
+		},
+		{
+			flags = 3
+			steamid = 76561199828144232
+		},
+		{
+			flags = 3
+			steamid = 76561199378411814
+		},
+		{
+			flags = 3
+			steamid = 76561199879924712
+		},
+		{
+			flags = 3
+			steamid = 76561199686175280
+		},
+		{
+			flags = 3
+			steamid = 76561199869755858
+		},
+		{
+			flags = 3
+			steamid = 76561199707254014
+		},
+		{
+			flags = 3
+			steamid = 76561199887389015
+		},
+		{
+			flags = 3
+			steamid = 76561198977077210
+		},
+		{
+			flags = 3
+			steamid = 76561199241960427
+		},
+		{
+			flags = 3
+			steamid = 76561198979866566
+		},
+		{
+			flags = 3
+			steamid = 76561199206929646
+		},
+		{
+			flags = 3
+			steamid = 76561199178878399
+		},
+		{
+			flags = 3
+			steamid = 76561199088432919
+		},
+		{
+			flags = 3
+			steamid = 76561199517932191
+		},
+		{
+			flags = 3
+			steamid = 76561199571492872
+		},
+		{
+			flags = 3
+			steamid = 76561199559229219
+		},
+		{
+			flags = 3
+			steamid = 76561199181155245
+		},
+		{
+			flags = 3
+			steamid = 76561199249308269
+		},
+		{
+			flags = 3
+			steamid = 76561199415777270
+		},
+		{
+			flags = 3
+			steamid = 76561199870233264
+		},
+		{
+			flags = 3
+			steamid = 76561199522278740
+		},
+		{
+			flags = 3
+			steamid = 76561199233761889
+		},
+		{
+			flags = 3
+			steamid = 76561198106185734
+		},
+		{
+			flags = 3
+			steamid = 76561198304460605
+		},
+		{
+			flags = 3
+			steamid = 76561199624349739
+		},
+		{
+			flags = 3
+			steamid = 76561199637658838
+		},
+		{
+			flags = 3
+			steamid = 76561199755248113
+		},
+		{
+			flags = 3
+			steamid = 76561199645219795
+		},
+		{
+			flags = 3
+			steamid = 76561199558220252
+		},
+		{
+			flags = 3
+			steamid = 76561199636100220
+		},
+		{
+			flags = 3
+			steamid = 76561199860597453
+		},
+		{
+			flags = 3
+			steamid = 76561199869068427
+		},
+		{
+			flags = 3
+			steamid = 76561199526741057
+		},
+		{
+			flags = 3
+			steamid = 76561199854163197
+		},
+		{
+			flags = 3
+			steamid = 76561199746364553
+		},
+		{
+			flags = 3
+			steamid = 76561199779589574
+		},
+		{
+			flags = 3
+			steamid = 76561199888698549
+		},
+		{
+			flags = 3
+			steamid = 76561199533300271
+		},
+		{
+			flags = 3
+			steamid = 76561199748038724
+		},
+		{
+			flags = 3
+			steamid = 76561199596688513
+		},
+		{
+			flags = 3
+			steamid = 76561199701279399
+		},
+		{
+			flags = 3
+			steamid = 76561199768425878
+		},
+		{
+			flags = 3
+			steamid = 76561199476372817
+		},
+		{
+			flags = 3
+			steamid = 76561199867322627
+		},
+		{
+			flags = 3
+			steamid = 76561199670467743
+		},
+		{
+			flags = 3
+			steamid = 76561198860163705
+		},
+		{
+			flags = 3
+			steamid = 76561199757976508
+		},
+		{
+			flags = 3
+			steamid = 76561199653483912
+		},
+		{
+			flags = 3
+			steamid = 76561199833026072
+		},
+		{
+			flags = 3
+			steamid = 76561199820328490
+		},
+		{
+			flags = 3
+			steamid = 76561199073593335
+		},
+		{
+			flags = 3
+			steamid = 76561199871493430
+		},
+		{
+			flags = 3
+			steamid = 76561199883461194
+		},
+		{
+			flags = 3
+			steamid = 76561199530119465
+		},
+		{
+			flags = 3
+			steamid = 76561198788042940
+		},
+		{
+			flags = 3
+			steamid = 76561199789899145
+		},
+		{
+			flags = 3
+			steamid = 76561199044832142
+		},
+		{
+			flags = 3
+			steamid = 76561199500455468
+		},
+		{
+			flags = 3
+			steamid = 76561199274825082
+		},
+		{
+			flags = 3
+			steamid = 76561199762537762
+		},
+		{
+			flags = 3
+			steamid = 76561199186525667
+		},
+		{
+			flags = 3
+			steamid = 76561199753084993
+		},
+		{
+			flags = 3
+			steamid = 76561199633381425
+		},
+		{
+			flags = 3
+			steamid = 76561199802986290
+		},
+		{
+			flags = 3
+			steamid = 76561199851914652
+		},
+		{
+			flags = 3
+			steamid = 76561199644068570
+		},
+		{
+			flags = 3
+			steamid = 76561199887204149
+		},
+		{
+			flags = 3
+			steamid = 76561198277638607
+		},
+		{
+			flags = 3
+			steamid = 76561199190023731
+		},
+		{
+			flags = 3
+			steamid = 76561199877369432
+		},
+		{
+			flags = 3
+			steamid = 76561199138647892
+		},
+		{
+			flags = 3
+			steamid = 76561199492930326
+		},
+		{
+			flags = 3
+			steamid = 76561199474693381
+		},
+		{
+			flags = 3
+			steamid = 76561199480090298
+		},
+		{
+			flags = 3
+			steamid = 76561199387288325
+		},
+		{
+			flags = 3
+			steamid = 76561199853074072
+		},
+		{
+			flags = 3
+			steamid = 76561199563360771
+		},
+		{
+			flags = 3
+			steamid = 76561199642976464
+		},
+		{
+			flags = 3
+			steamid = 76561199571349651
+		},
+		{
+			flags = 3
+			steamid = 76561198826768934
+		},
+		{
+			flags = 3
+			steamid = 76561199699814041
+		},
+		{
+			flags = 3
+			steamid = 76561199700275486
+		},
+		{
+			flags = 3
+			steamid = 76561199608894240
+		},
+		{
+			flags = 3
+			steamid = 76561199815008637
+		},
+		{
+			flags = 3
+			steamid = 76561199781326402
+		},
+		{
+			flags = 3
+			steamid = 76561199645613173
+		},
+		{
+			flags = 3
+			steamid = 76561199615162531
+		},
+		{
+			flags = 3
+			steamid = 76561199843888537
+		},
+		{
+			flags = 3
+			steamid = 76561199024662879
+		},
+		{
+			flags = 3
+			steamid = 76561199761909793
+		},
+		{
+			flags = 3
+			steamid = 76561199495129677
+		},
+		{
+			flags = 3
+			steamid = 76561199798258535
+		},
+		{
+			flags = 3
+			steamid = 76561199866947600
+		},
+		{
+			flags = 3
+			steamid = 76561199863871328
+		},
+		{
+			flags = 3
+			steamid = 76561199804824210
+		},
+		{
+			flags = 3
+			steamid = 76561199802878403
+		},
+		{
+			flags = 3
+			steamid = 76561199466657092
+		},
+		{
+			flags = 3
+			steamid = 76561198803192747
+		},
+		{
+			flags = 3
+			steamid = 76561198789274994
+		},
+		{
+			flags = 3
+			steamid = 76561199567451811
+		},
+		{
+			flags = 3
+			steamid = 76561199573042126
+		},
+		{
+			flags = 3
+			steamid = 76561199520765968
+		},
+		{
+			flags = 3
+			steamid = 76561199196087637
+		},
+		{
+			flags = 3
+			steamid = 76561198385397306
+		},
+		{
+			flags = 3
+			steamid = 76561199231407934
+		},
+		{
+			flags = 3
+			steamid = 76561198309009808
+		},
+		{
+			flags = 3
+			steamid = 76561199704030755
+		},
+		{
+			flags = 3
+			steamid = 76561199886741388
+		},
+		{
+			flags = 3
+			steamid = 76561199471093421
+		},
+		{
+			flags = 3
+			steamid = 76561199763152369
+		},
+		{
+			flags = 3
+			steamid = 76561199040856613
+		},
+		{
+			flags = 3
+			steamid = 76561199175061362
+		},
+		{
+			flags = 3
+			steamid = 76561199809471666
+		},
+		{
+			flags = 3
+			steamid = 76561199562697075
+		},
+		{
+			flags = 3
+			steamid = 76561199831667926
+		},
+		{
+			flags = 3
+			steamid = 76561199675924826
+		},
+		{
+			flags = 3
+			steamid = 76561199871211058
+		},
+		{
+			flags = 3
+			steamid = 76561198803270896
+		},
+		{
+			flags = 3
+			steamid = 76561199566550115
+		},
+		{
+			flags = 3
+			steamid = 76561199829678004
+		},
+		{
+			flags = 3
+			steamid = 76561199471637339
+		},
+		{
+			flags = 3
+			steamid = 76561199341255067
+		},
+		{
+			flags = 3
+			steamid = 76561199710837414
+		},
+		{
+			flags = 3
+			steamid = 76561199802855352
+		},
+		{
+			flags = 3
+			steamid = 76561198408693914
+		},
+		{
+			flags = 3
+			steamid = 76561199765790780
+		},
+		{
+			flags = 3
+			steamid = 76561199559230060
+		},
+		{
+			flags = 3
+			steamid = 76561199401479168
+		},
+		{
+			flags = 3
+			steamid = 76561199285346834
+		},
+		{
+			flags = 3
+			steamid = 76561199348924295
+		},
+		{
+			flags = 3
+			steamid = 76561199554589273
+		},
+		{
+			flags = 3
+			steamid = 76561199690740291
+		},
+		{
+			flags = 3
+			steamid = 76561199250221383
+		},
+		{
+			flags = 3
+			steamid = 76561199683920449
+		},
+		{
+			flags = 3
+			steamid = 76561199642072017
+		},
+		{
+			flags = 3
+			steamid = 76561199771447851
+		},
+		{
+			flags = 3
+			steamid = 76561199248545762
+		},
+		{
+			flags = 3
+			steamid = 76561199253041628
+		},
+		{
+			flags = 3
+			steamid = 76561199809197501
+		},
+		{
+			flags = 3
+			steamid = 76561199501169664
+		},
+		{
+			flags = 3
+			steamid = 76561199875395137
+		},
+		{
+			flags = 3
+			steamid = 76561199606632684
+		},
+		{
+			flags = 3
+			steamid = 76561199836855349
+		},
+		{
+			flags = 3
+			steamid = 76561198779784770
+		},
+		{
+			flags = 3
+			steamid = 76561199747550027
+		},
+		{
+			flags = 3
+			steamid = 76561199758489302
+		},
+		{
+			flags = 3
+			steamid = 76561199700616058
+		},
+		{
+			flags = 3
+			steamid = 76561198843025352
+		},
+		{
+			flags = 3
+			steamid = 76561198312050327
+		},
+		{
+			flags = 3
+			steamid = 76561198925471686
+		},
+		{
+			flags = 3
+			steamid = 76561199755308218
+		},
+		{
+			flags = 3
+			steamid = 76561199065688813
+		},
+		{
+			flags = 3
+			steamid = 76561199760343736
+		},
+		{
+			flags = 3
+			steamid = 76561199757385768
+		},
+		{
+			flags = 3
+			steamid = 76561199798893094
+		},
+		{
+			flags = 3
+			steamid = 76561199708976889
+		},
+		{
+			flags = 3
+			steamid = 76561199499086167
+		},
+		{
+			flags = 3
+			steamid = 76561199511200738
+		},
+		{
+			flags = 3
+			steamid = 76561199867603275
+		},
+		{
+			flags = 3
+			steamid = 76561199749726561
+		},
+		{
+			flags = 3
+			steamid = 76561199622784151
+		},
+		{
+			flags = 3
+			steamid = 76561199764709605
+		},
+		{
+			flags = 3
+			steamid = 76561199867529232
+		},
+		{
+			flags = 3
+			steamid = 76561198379682665
+		},
+		{
+			flags = 3
+			steamid = 76561198450515695
+		},
+		{
+			flags = 3
+			steamid = 76561198791570458
+		},
+		{
+			flags = 3
+			steamid = 76561199376480123
+		},
+		{
+			flags = 3
+			steamid = 76561199544985749
+		},
+		{
+			flags = 3
+			steamid = 76561198248143082
+		},
+		{
+			flags = 3
+			steamid = 76561198964770954
+		},
+		{
+			flags = 3
+			steamid = 76561199388298279
+		},
+		{
+			flags = 3
+			steamid = 76561199158694263
+		},
+		{
+			flags = 3
+			steamid = 76561199564795688
+		},
+		{
+			flags = 3
+			steamid = 76561199559760962
+		},
+		{
+			flags = 3
+			steamid = 76561199402949936
+		},
+		{
+			flags = 3
+			steamid = 76561198777599318
+		},
+		{
+			flags = 3
+			steamid = 76561199152546723
+		},
+		{
+			flags = 3
+			steamid = 76561199346662467
+		},
+		{
+			flags = 3
+			steamid = 76561199654308923
+		},
+		{
+			flags = 3
+			steamid = 76561199888536316
+		},
+		{
+			flags = 3
+			steamid = 76561199798437614
+		},
+		{
+			flags = 3
+			steamid = 76561199144951414
+		},
+		{
+			flags = 3
+			steamid = 76561199521673782
+		},
+		{
+			flags = 3
+			steamid = 76561198789775303
+		},
+		{
+			flags = 3
+			steamid = 76561199760449720
+		},
+		{
+			flags = 3
+			steamid = 76561199292403862
+		},
+		{
+			flags = 3
+			steamid = 76561198772358386
+		},
+		{
+			flags = 3
+			steamid = 76561199784334724
+		},
+		{
+			flags = 3
+			steamid = 76561199839852557
+		},
+		{
+			flags = 3
+			steamid = 76561199752051389
+		},
+		{
+			flags = 3
+			steamid = 76561199033010474
+		},
+		{
+			flags = 3
+			steamid = 76561199388286722
+		},
+		{
+			flags = 3
+			steamid = 76561199812301205
+		},
+		{
+			flags = 3
+			steamid = 76561199868656862
+		},
+		{
+			flags = 3
+			steamid = 76561199135891499
+		},
+		{
+			flags = 3
+			steamid = 76561199521453335
+		},
+		{
+			flags = 3
+			steamid = 76561199699545035
+		},
+		{
+			flags = 3
+			steamid = 76561199573619422
+		},
+		{
+			flags = 3
+			steamid = 76561199797056773
+		},
+		{
+			flags = 3
+			steamid = 76561199616894589
+		},
+		{
+			flags = 3
+			steamid = 76561199772333237
+		},
+		{
+			flags = 3
+			steamid = 76561199643200508
+		},
+		{
+			flags = 3
+			steamid = 76561199787406368
+		},
+		{
+			flags = 3
+			steamid = 76561199827668343
+		},
+		{
+			flags = 3
+			steamid = 76561199814591739
+		},
+		{
+			flags = 3
+			steamid = 76561198985287755
+		},
+		{
+			flags = 3
+			steamid = 76561199762519398
+		},
+		{
+			flags = 3
+			steamid = 76561199217720239
+		},
+		{
+			flags = 3
+			steamid = 76561199826691661
+		},
+		{
+			flags = 3
+			steamid = 76561199132868871
+		},
+		{
+			flags = 3
+			steamid = 76561199801292393
+		},
+		{
+			flags = 3
+			steamid = 76561199881061884
+		},
+		{
+			flags = 3
+			steamid = 76561198839986091
+		},
+		{
+			flags = 3
+			steamid = 76561198779950823
+		},
+		{
+			flags = 3
+			steamid = 76561199551962318
+		},
+		{
+			flags = 3
+			steamid = 76561199067529562
+		},
+		{
+			flags = 3
+			steamid = 76561199796020592
+		},
+		{
+			flags = 3
+			steamid = 76561199884387995
+		},
+		{
+			flags = 3
+			steamid = 76561199835175744
+		},
+		{
+			flags = 3
+			steamid = 76561199441691066
+		},
+		{
+			flags = 3
+			steamid = 76561198806835164
+		},
+		{
+			flags = 3
+			steamid = 76561199789114986
+		},
+		{
+			flags = 3
+			steamid = 76561199507612054
+		},
+		{
+			flags = 3
+			steamid = 76561199867181447
+		},
+		{
+			flags = 3
+			steamid = 76561199564736224
+		},
+		{
+			flags = 3
+			steamid = 76561199695167351
+		},
+		{
+			flags = 3
+			steamid = 76561198414390986
+		},
+		{
+			flags = 3
+			steamid = 76561199540711753
+		},
+		{
+			flags = 3
+			steamid = 76561199790803302
+		},
+		{
+			flags = 3
+			steamid = 76561199830560091
+		},
+		{
+			flags = 3
+			steamid = 76561199203874109
+		},
+		{
+			flags = 3
+			steamid = 76561199634008998
+		},
+		{
+			flags = 3
+			steamid = 76561199862373010
+		},
+		{
+			flags = 3
+			steamid = 76561199357749891
+		},
+		{
+			flags = 3
+			steamid = 76561198787213279
+		},
+		{
+			flags = 3
+			steamid = 76561199771582796
+		},
+		{
+			flags = 3
+			steamid = 76561199811927410
+		},
+		{
+			flags = 3
+			steamid = 76561199542922872
+		},
+		{
+			flags = 3
+			steamid = 76561199555084230
+		},
+		{
+			flags = 3
+			steamid = 76561199469249360
+		},
+		{
+			flags = 3
+			steamid = 76561199318043586
+		},
+		{
+			flags = 3
+			steamid = 76561199712642844
+		},
+		{
+			flags = 3
+			steamid = 76561199786502442
+		},
+		{
+			flags = 3
+			steamid = 76561199864454399
+		},
+		{
+			flags = 3
+			steamid = 76561199489576302
+		},
+		{
+			flags = 3
+			steamid = 76561199867366036
+		},
+		{
+			flags = 3
+			steamid = 76561199865971170
+		},
+		{
+			flags = 3
+			steamid = 76561199222023178
+		},
+		{
+			flags = 3
+			steamid = 76561199304318811
+		},
+		{
+			flags = 3
+			steamid = 76561199554165447
+		},
+		{
+			flags = 3
+			steamid = 76561199864747995
+		},
+		{
+			flags = 3
+			steamid = 76561199341708716
+		},
+		{
+			flags = 3
+			steamid = 76561199443527427
+		},
+		{
+			flags = 3
+			steamid = 76561199025415257
+		},
+		{
+			flags = 3
+			steamid = 76561199787767764
+		},
+		{
+			flags = 3
+			steamid = 76561199540474428
+		},
+		{
+			flags = 3
+			steamid = 76561199880412216
+		},
+		{
+			flags = 3
+			steamid = 76561199831841280
+		},
+		{
+			flags = 3
+			steamid = 76561199197889010
+		},
+		{
+			flags = 3
+			steamid = 76561199812828430
+		},
+		{
+			flags = 3
+			steamid = 76561199872752938
+		},
+		{
+			flags = 3
+			steamid = 76561199832768608
+		},
+		{
+			flags = 3
+			steamid = 76561199845996579
+		},
+		{
+			flags = 3
+			steamid = 76561199554613989
+		},
+		{
+			flags = 3
+			steamid = 76561199238123902
+		},
+		{
+			flags = 3
+			steamid = 76561199805954671
+		},
+		{
+			flags = 3
+			steamid = 76561199184092813
+		},
+		{
+			flags = 3
+			steamid = 76561199785541895
+		},
+		{
+			flags = 3
+			steamid = 76561199789374368
+		},
+		{
+			flags = 3
+			steamid = 76561199530760894
+		},
+		{
+			flags = 3
+			steamid = 76561199315597774
+		},
+		{
+			flags = 3
+			steamid = 76561199681608478
+		},
+		{
+			flags = 3
+			steamid = 76561199868326431
+		},
+		{
+			flags = 3
+			steamid = 76561199865332117
+		},
+		{
+			flags = 3
+			steamid = 76561199528780193
+		},
+		{
+			flags = 3
+			steamid = 76561199831389993
+		},
+		{
+			flags = 3
+			steamid = 76561199475769865
+		},
+		{
+			flags = 3
+			steamid = 76561199636185921
+		},
+		{
+			flags = 3
+			steamid = 76561199664468102
+		},
+		{
+			flags = 3
+			steamid = 76561199681198325
+		},
+		{
+			flags = 3
+			steamid = 76561199261805866
+		},
+		{
+			flags = 3
+			steamid = 76561199768750560
+		},
+		{
+			flags = 3
+			steamid = 76561199633424061
+		},
+		{
+			flags = 3
+			steamid = 76561199763779193
+		},
+		{
+			flags = 3
+			steamid = 76561199443333719
+		},
+		{
+			flags = 3
+			steamid = 76561199802119707
+		},
+		{
+			flags = 3
+			steamid = 76561198784592611
+		},
+		{
+			flags = 3
+			steamid = 76561199533164061
+		},
+		{
+			flags = 3
+			steamid = 76561199092034312
+		},
+		{
+			flags = 3
+			steamid = 76561199150719569
+		},
+		{
+			flags = 3
+			steamid = 76561199597220225
+		},
+		{
+			flags = 3
+			steamid = 76561199555473752
+		},
+		{
+			flags = 3
+			steamid = 76561199075653831
+		},
+		{
+			flags = 3
+			steamid = 76561199677255717
+		},
+		{
+			flags = 3
+			steamid = 76561198979957504
+		},
+		{
+			flags = 3
+			steamid = 76561199873388790
+		},
+		{
+			flags = 3
+			steamid = 76561199347767540
+		},
+		{
+			flags = 3
+			steamid = 76561199533758066
+		},
+		{
+			flags = 3
+			steamid = 76561199706106963
+		},
+		{
+			flags = 3
+			steamid = 76561199150748728
+		},
+		{
+			flags = 3
+			steamid = 76561199401511793
+		},
+		{
+			flags = 3
+			steamid = 76561198820680609
+		},
+		{
+			flags = 3
+			steamid = 76561198365962049
+		},
+		{
+			flags = 3
+			steamid = 76561199569551578
+		},
+		{
+			flags = 3
+			steamid = 76561198764229807
+		},
+		{
+			flags = 3
+			steamid = 76561199520046705
+		},
+		{
+			flags = 3
+			steamid = 76561198779518086
+		},
+		{
+			flags = 3
+			steamid = 76561199840396245
+		},
+		{
+			flags = 3
+			steamid = 76561199808400970
+		},
+		{
+			flags = 3
+			steamid = 76561199246765290
+		},
+		{
+			flags = 3
+			steamid = 76561198775993851
+		},
+		{
+			flags = 3
+			steamid = 76561199829232523
+		},
+		{
+			flags = 3
+			steamid = 76561199252104408
+		},
+		{
+			flags = 3
+			steamid = 76561199252011492
+		},
+		{
+			flags = 3
+			steamid = 76561199080578146
+		},
+		{
+			flags = 3
+			steamid = 76561198995132513
+		},
+		{
+			flags = 3
+			steamid = 76561199006199049
+		},
+		{
+			flags = 3
+			steamid = 76561199870212294
+		},
+		{
+			flags = 3
+			steamid = 76561199608404632
+		},
+		{
+			flags = 3
+			steamid = 76561198402974986
+		},
+		{
+			flags = 3
+			steamid = 76561199855736156
+		},
+		{
+			flags = 3
+			steamid = 76561199890362817
+		},
+		{
+			flags = 3
+			steamid = 76561198369162678
+		},
+		{
+			flags = 3
+			steamid = 76561199558896511
+		},
+		{
+			flags = 3
+			steamid = 76561199525551999
+		},
+		{
+			flags = 3
+			steamid = 76561199845490490
+		},
+		{
+			flags = 3
+			steamid = 76561199403649038
+		},
+		{
+			flags = 3
+			steamid = 76561199439134770
+		},
+		{
+			flags = 3
+			steamid = 76561198924613938
+		},
+		{
+			flags = 3
+			steamid = 76561198935928074
+		},
+		{
+			flags = 3
+			steamid = 76561198777874159
+		},
+		{
+			flags = 3
+			steamid = 76561199559205859
+		},
+		{
+			flags = 3
+			steamid = 76561199761147411
+		},
+		{
+			flags = 3
+			steamid = 76561199881481497
+		},
+		{
+			flags = 3
+			steamid = 76561199860528576
+		},
+		{
+			flags = 3
+			steamid = 76561199365803900
+		},
+		{
+			flags = 3
+			steamid = 76561199749937573
+		},
+		{
+			flags = 3
+			steamid = 76561199868105085
+		},
+		{
+			flags = 3
+			steamid = 76561199825357622
+		},
+		{
+			flags = 3
+			steamid = 76561199128387852
+		},
+		{
+			flags = 3
+			steamid = 76561199767581514
+		},
+		{
+			flags = 3
+			steamid = 76561199513089877
+		},
+		{
+			flags = 3
+			steamid = 76561199089299268
+		},
+		{
+			flags = 3
+			steamid = 76561199179310806
+		},
+		{
+			flags = 3
+			steamid = 76561199763447744
+		},
+		{
+			flags = 3
+			steamid = 76561199178962419
+		},
+		{
+			flags = 3
+			steamid = 76561199512522794
+		},
+		{
+			flags = 3
+			steamid = 76561199180638417
+		},
+		{
+			flags = 3
+			steamid = 76561199225359622
+		},
+		{
+			flags = 3
+			steamid = 76561199477949141
+		},
+		{
+			flags = 3
+			steamid = 76561199810147778
+		},
+		{
+			flags = 3
+			steamid = 76561199542394955
+		},
+		{
+			flags = 3
+			steamid = 76561199770151951
+		},
+		{
+			flags = 3
+			steamid = 76561198792333590
+		},
+		{
+			flags = 3
+			steamid = 76561198774048668
+		},
+		{
+			flags = 3
+			steamid = 76561198779239588
+		},
+		{
+			flags = 3
+			steamid = 76561199334379793
+		},
+		{
+			flags = 3
+			steamid = 76561199491212451
+		},
+		{
+			flags = 3
+			steamid = 76561199608591536
+		},
+		{
+			flags = 3
+			steamid = 76561199800971214
+		},
+		{
+			flags = 3
+			steamid = 76561199653081994
+		},
+		{
+			flags = 3
+			steamid = 76561199870796239
+		},
+		{
+			flags = 3
+			steamid = 76561199434753744
+		},
+		{
+			flags = 3
+			steamid = 76561199030992914
+		},
+		{
+			flags = 3
+			steamid = 76561199654606390
+		},
+		{
+			flags = 3
+			steamid = 76561199679678153
+		},
+		{
+			flags = 3
+			steamid = 76561199653270766
+		},
+		{
+			flags = 3
+			steamid = 76561199396542078
+		},
+		{
+			flags = 3
+			steamid = 76561199238245744
+		},
+		{
+			flags = 3
+			steamid = 76561199523553672
+		},
+		{
+			flags = 3
+			steamid = 76561199528686643
+		},
+		{
+			flags = 3
+			steamid = 76561199223352993
+		},
+		{
+			flags = 3
+			steamid = 76561199404007506
+		},
+		{
+			flags = 3
+			steamid = 76561199874137603
+		},
+		{
+			flags = 3
+			steamid = 76561199809898136
+		},
+		{
+			flags = 3
+			steamid = 76561199186257436
+		},
+		{
+			flags = 3
+			steamid = 76561199297448364
+		},
+		{
+			flags = 3
+			steamid = 76561199785571879
+		},
+		{
+			flags = 3
+			steamid = 76561199544416743
+		},
+		{
+			flags = 3
+			steamid = 76561199863697627
+		},
+		{
+			flags = 3
+			steamid = 76561199443223346
+		},
+		{
+			flags = 3
+			steamid = 76561199601222517
+		},
+		{
+			flags = 3
+			steamid = 76561199611127577
+		},
+		{
+			flags = 3
+			steamid = 76561198792712657
+		},
+		{
+			flags = 3
+			steamid = 76561199729093186
+		},
+		{
+			flags = 3
+			steamid = 76561199234411882
+		},
+		{
+			flags = 3
+			steamid = 76561199608355274
+		},
+		{
+			flags = 3
+			steamid = 76561199782877678
+		},
+		{
+			flags = 3
+			steamid = 76561199768635371
+		},
+		{
+			flags = 3
+			steamid = 76561199607956099
+		},
+		{
+			flags = 3
+			steamid = 76561199763160927
+		},
+		{
+			flags = 3
+			steamid = 76561199366013087
+		},
+		{
+			flags = 3
+			steamid = 76561199187173671
+		},
+		{
+			flags = 3
+			steamid = 76561199705621167
+		},
+		{
+			flags = 3
+			steamid = 76561199772336031
+		},
+		{
+			flags = 3
+			steamid = 76561199507875926
+		},
+		{
+			flags = 3
+			steamid = 76561199568606786
+		},
+		{
+			flags = 3
+			steamid = 76561198837950215
+		},
+		{
+			flags = 3
+			steamid = 76561198778501200
+		},
+		{
+			flags = 3
+			steamid = 76561199478521892
+		},
+		{
+			flags = 3
+			steamid = 76561198760038177
+		},
+		{
+			flags = 3
+			steamid = 76561198758320712
+		},
+		{
+			flags = 3
+			steamid = 76561199803735140
+		},
+		{
+			flags = 3
+			steamid = 76561199544822687
+		},
+		{
+			flags = 3
+			steamid = 76561199784603180
+		},
+		{
+			flags = 3
+			steamid = 76561199148389450
+		},
+		{
+			flags = 3
+			steamid = 76561199380378644
+		},
+		{
+			flags = 3
+			steamid = 76561199467202805
+		},
+		{
+			flags = 3
+			steamid = 76561199568589160
+		},
+		{
+			flags = 3
+			steamid = 76561199373552056
+		},
+		{
+			flags = 3
+			steamid = 76561199791554014
+		},
+		{
+			flags = 3
+			steamid = 76561199742974707
+		},
+		{
+			flags = 3
+			steamid = 76561198772086667
+		},
+		{
+			flags = 3
+			steamid = 76561199758553155
+		},
+		{
+			flags = 3
+			steamid = 76561199608782965
+		},
+		{
+			flags = 3
+			steamid = 76561199844421463
+		},
+		{
+			flags = 3
+			steamid = 76561199653087407
+		},
+		{
+			flags = 3
+			steamid = 76561199565947918
+		},
+		{
+			flags = 3
+			steamid = 76561199501623720
+		},
+		{
+			flags = 3
+			steamid = 76561199540352187
+		},
+		{
+			flags = 3
+			steamid = 76561199185099579
+		},
+		{
+			flags = 3
+			steamid = 76561199798120313
+		},
+		{
+			flags = 3
+			steamid = 76561198758498342
+		},
+		{
+			flags = 3
+			steamid = 76561199048138021
+		},
+		{
+			flags = 3
+			steamid = 76561199697602101
+		},
+		{
+			flags = 3
+			steamid = 76561199336175860
+		},
+		{
+			flags = 3
+			steamid = 76561199805190517
+		},
+		{
+			flags = 3
+			steamid = 76561199783519409
+		},
+		{
+			flags = 3
+			steamid = 76561199682809157
+		},
+		{
+			flags = 3
+			steamid = 76561199559955695
+		},
+		{
+			flags = 3
+			steamid = 76561199236891023
+		},
+		{
+			flags = 3
+			steamid = 76561199195680063
+		},
+		{
+			flags = 3
+			steamid = 76561199711318631
+		},
+		{
+			flags = 3
+			steamid = 76561198090213217
+		},
+		{
+			flags = 3
+			steamid = 76561199794526289
+		},
+		{
+			flags = 3
+			steamid = 76561198982693198
+		},
+		{
+			flags = 3
+			steamid = 76561199853358736
+		},
+		{
+			flags = 3
+			steamid = 76561199535219519
+		},
+		{
+			flags = 3
+			steamid = 76561199400279907
+		},
+		{
+			flags = 3
+			steamid = 76561199727419910
+		},
+		{
+			flags = 3
+			steamid = 76561199436701460
+		},
+		{
+			flags = 3
+			steamid = 76561199394001676
+		},
+		{
+			flags = 3
+			steamid = 76561199225301061
+		},
+		{
+			flags = 3
+			steamid = 76561199294266339
+		},
+		{
+			flags = 3
+			steamid = 76561199133409674
+		},
+		{
+			flags = 3
+			steamid = 76561199521397356
+		},
+		{
+			flags = 3
+			steamid = 76561199148208607
+		},
+		{
+			flags = 3
+			steamid = 76561199416911912
+		},
+		{
+			flags = 3
+			steamid = 76561199482755445
+		},
+		{
+			flags = 3
+			steamid = 76561198757359930
+		},
+		{
+			flags = 3
+			steamid = 76561198761930138
+		},
+		{
+			flags = 3
+			steamid = 76561199149770336
+		},
+		{
+			flags = 3
+			steamid = 76561199084136744
+		},
+		{
+			flags = 3
+			steamid = 76561199372534642
+		},
+		{
+			flags = 3
+			steamid = 76561199737943920
+		},
+		{
+			flags = 3
+			steamid = 76561198752068601
+		},
+		{
+			flags = 3
+			steamid = 76561199865658909
+		},
+		{
+			flags = 3
+			steamid = 76561198448155156
+		},
+		{
+			flags = 3
+			steamid = 76561199838422447
+		},
+		{
+			flags = 3
+			steamid = 76561198809265758
+		},
+		{
+			flags = 3
+			steamid = 76561199798591322
+		},
+		{
+			flags = 3
+			steamid = 76561199181091035
+		},
+		{
+			flags = 3
+			steamid = 76561199205300426
+		},
+		{
+			flags = 3
+			steamid = 76561199386463961
+		},
+		{
+			flags = 3
+			steamid = 76561199240308116
+		},
+		{
+			flags = 3
+			steamid = 76561199748785113
+		},
+		{
+			flags = 3
+			steamid = 76561198415575266
+		},
+		{
+			flags = 3
+			steamid = 76561199840981803
+		},
+		{
+			flags = 3
+			steamid = 76561199477300310
+		},
+		{
+			flags = 3
+			steamid = 76561199073631598
+		},
+		{
+			flags = 3
+			steamid = 76561199872822413
+		},
+		{
+			flags = 3
+			steamid = 76561199237616912
+		},
+		{
+			flags = 3
+			steamid = 76561198974513638
+		},
+		{
+			flags = 3
+			steamid = 76561198801457214
+		},
+		{
+			flags = 3
+			steamid = 76561199881739964
+		},
+		{
+			flags = 3
+			steamid = 76561198773026074
+		},
+		{
+			flags = 3
+			steamid = 76561199053698832
+		},
+		{
+			flags = 3
+			steamid = 76561199303675525
+		},
+		{
+			flags = 3
+			steamid = 76561199041474354
+		},
+		{
+			flags = 3
+			steamid = 76561199077580575
+		},
+		{
+			flags = 3
+			steamid = 76561199477574168
+		},
+		{
+			flags = 3
+			steamid = 76561199773259106
+		},
+		{
+			flags = 3
+			steamid = 76561199136311066
+		},
+		{
+			flags = 3
+			steamid = 76561199613261069
+		},
+		{
+			flags = 3
+			steamid = 76561199822384065
+		},
+		{
+			flags = 3
+			steamid = 76561199570538278
+		},
+		{
+			flags = 3
+			steamid = 76561199481897474
+		},
+		{
+			flags = 3
+			steamid = 76561199255328566
+		},
+		{
+			flags = 3
+			steamid = 76561199546802917
+		},
+		{
+			flags = 3
+			steamid = 76561198753202232
+		},
+		{
+			flags = 3
+			steamid = 76561199726766516
+		},
+		{
+			flags = 3
+			steamid = 76561198373156240
+		},
+		{
+			flags = 3
+			steamid = 76561198754694769
+		},
+		{
+			flags = 3
+			steamid = 76561199115778858
+		},
+		{
+			flags = 3
+			steamid = 76561199790097016
+		},
+		{
+			flags = 3
+			steamid = 76561199554450373
+		},
+		{
+			flags = 3
+			steamid = 76561199805889456
+		},
+		{
+			flags = 3
+			steamid = 76561199137626990
+		},
+		{
+			flags = 3
+			steamid = 76561199789394959
+		},
+		{
+			flags = 3
+			steamid = 76561199768870576
+		},
+		{
+			flags = 3
+			steamid = 76561199074687634
+		},
+		{
+			flags = 3
+			steamid = 76561199181927600
+		},
+		{
+			flags = 3
+			steamid = 76561198787984230
+		},
+		{
+			flags = 3
+			steamid = 76561199802715189
+		},
+		{
+			flags = 3
+			steamid = 76561199719140116
+		},
+		{
+			flags = 3
+			steamid = 76561199467286031
+		},
+		{
+			flags = 3
+			steamid = 76561199215339151
+		},
+		{
+			flags = 3
+			steamid = 76561199700331784
+		},
+		{
+			flags = 3
+			steamid = 76561198326341550
+		},
+		{
+			flags = 3
+			steamid = 76561199247612645
+		},
+		{
+			flags = 3
+			steamid = 76561198767481087
+		},
+		{
+			flags = 3
+			steamid = 76561199342092334
+		},
+		{
+			flags = 3
+			steamid = 76561199257311142
+		},
+		{
+			flags = 3
+			steamid = 76561199555135907
+		},
+		{
+			flags = 3
+			steamid = 76561199204337648
+		},
+		{
+			flags = 3
+			steamid = 76561199865015561
+		},
+		{
+			flags = 3
+			steamid = 76561198845853222
+		},
+		{
+			flags = 3
+			steamid = 76561199168835695
+		},
+		{
+			flags = 3
+			steamid = 76561199727677984
+		},
+		{
+			flags = 3
+			steamid = 76561199491899223
+		},
+		{
+			flags = 3
+			steamid = 76561199488495191
+		},
+		{
+			flags = 3
+			steamid = 76561199524519303
+		},
+		{
+			flags = 3
+			steamid = 76561198167440658
+		},
+		{
+			flags = 3
+			steamid = 76561198754266284
+		},
+		{
+			flags = 3
+			steamid = 76561199495851853
+		},
+		{
+			flags = 3
+			steamid = 76561199682106057
+		},
+		{
+			flags = 3
+			steamid = 76561199192979753
+		},
+		{
+			flags = 3
+			steamid = 76561199213941227
+		},
+		{
+			flags = 3
+			steamid = 76561199109155782
+		},
+		{
+			flags = 3
+			steamid = 76561199447099608
+		},
+		{
+			flags = 3
+			steamid = 76561199154167614
+		},
+		{
+			flags = 3
+			steamid = 76561199713144687
+		},
+		{
+			flags = 3
+			steamid = 76561199638599397
+		},
+		{
+			flags = 3
+			steamid = 76561199521850510
+		},
+		{
+			flags = 3
+			steamid = 76561199261644703
+		},
+		{
+			flags = 3
+			steamid = 76561199852981043
+		},
+		{
+			flags = 3
+			steamid = 76561199029210115
+		},
+		{
+			flags = 3
+			steamid = 76561199199074071
+		},
+		{
+			flags = 3
+			steamid = 76561199160576037
+		},
+		{
+			flags = 3
+			steamid = 76561199759291357
+		},
+		{
+			flags = 3
+			steamid = 76561199853973859
+		},
+		{
+			flags = 3
+			steamid = 76561199557537501
+		},
+		{
+			flags = 3
+			steamid = 76561199638540378
+		},
+		{
+			flags = 3
+			steamid = 76561198769155551
+		},
+		{
+			flags = 3
+			steamid = 76561199789312776
+		},
+		{
+			flags = 3
+			steamid = 76561199785898023
+		},
+		{
+			flags = 3
+			steamid = 76561199030071675
+		},
+		{
+			flags = 3
+			steamid = 76561199817965493
+		},
+		{
+			flags = 3
+			steamid = 76561199885525390
+		},
+		{
+			flags = 3
+			steamid = 76561199882754347
+		},
+		{
+			flags = 3
+			steamid = 76561199192451840
+		},
+		{
+			flags = 3
+			steamid = 76561199481754477
+		},
+		{
+			flags = 3
+			steamid = 76561199760490388
+		},
+		{
+			flags = 3
+			steamid = 76561199873429441
+		},
+		{
+			flags = 3
+			steamid = 76561198441938161
+		},
+		{
+			flags = 3
+			steamid = 76561198335397368
+		},
+		{
+			flags = 3
+			steamid = 76561198750750705
+		},
+		{
+			flags = 3
+			steamid = 76561199521939612
+		},
+		{
+			flags = 3
+			steamid = 76561199495146864
+		},
+		{
+			flags = 3
+			steamid = 76561199625797934
+		},
+		{
+			flags = 3
+			steamid = 76561199326529228
+		},
+		{
+			flags = 3
+			steamid = 76561199096410890
+		},
+		{
+			flags = 3
+			steamid = 76561199565719460
+		},
+		{
+			flags = 3
+			steamid = 76561199812755398
+		},
+		{
+			flags = 3
+			steamid = 76561199377112697
+		},
+		{
+			flags = 3
+			steamid = 76561199660063531
+		},
+		{
+			flags = 3
+			steamid = 76561198777517080
+		},
+		{
+			flags = 3
+			steamid = 76561199232784709
+		},
+		{
+			flags = 3
+			steamid = 76561199664854553
+		},
+		{
+			flags = 3
+			steamid = 76561199322294973
+		},
+		{
+			flags = 3
+			steamid = 76561199529306410
+		},
+		{
+			flags = 3
+			steamid = 76561198775632696
+		},
+		{
+			flags = 3
+			steamid = 76561199190955058
+		},
+		{
+			flags = 3
+			steamid = 76561199262687676
+		},
+		{
+			flags = 3
+			steamid = 76561199855368291
+		},
+		{
+			flags = 3
+			steamid = 76561199275871010
+		},
+		{
+			flags = 3
+			steamid = 76561199646730884
+		},
+		{
+			flags = 3
+			steamid = 76561199097697059
+		},
+		{
+			flags = 3
+			steamid = 76561199662548329
+		},
+		{
+			flags = 3
+			steamid = 76561199161696581
+		},
+		{
+			flags = 3
+			steamid = 76561199710984029
+		},
+		{
+			flags = 3
+			steamid = 76561199862228857
+		},
+		{
+			flags = 3
+			steamid = 76561199887624541
+		},
+		{
+			flags = 3
+			steamid = 76561199567926524
+		},
+		{
+			flags = 3
+			steamid = 76561198783761350
+		},
+		{
+			flags = 3
+			steamid = 76561198760222756
+		},
+		{
+			flags = 3
+			steamid = 76561199403848576
+		},
+		{
+			flags = 3
+			steamid = 76561198769197717
+		},
+		{
+			flags = 3
+			steamid = 76561199815706046
+		},
+		{
+			flags = 3
+			steamid = 76561199404971632
+		},
+		{
+			flags = 3
+			steamid = 76561199639409598
+		},
+		{
+			flags = 3
+			steamid = 76561199580541631
+		},
+		{
+			flags = 3
+			steamid = 76561199186896823
+		},
+		{
+			flags = 3
+			steamid = 76561199565163773
+		},
+		{
+			flags = 3
+			steamid = 76561199548871739
+		},
+		{
+			flags = 3
+			steamid = 76561199849535769
+		},
+		{
+			flags = 3
+			steamid = 76561199711719723
+		},
+		{
+			flags = 3
+			steamid = 76561199742028028
+		},
+		{
+			flags = 3
+			steamid = 76561199799283129
+		},
+		{
+			flags = 3
+			steamid = 76561199651781139
+		},
+		{
+			flags = 3
+			steamid = 76561198746444065
+		},
+		{
+			flags = 3
+			steamid = 76561199698107577
+		},
+		{
+			flags = 3
+			steamid = 76561199388902191
+		},
+		{
+			flags = 3
+			steamid = 76561199660509695
+		},
+		{
+			flags = 3
+			steamid = 76561199542107883
+		},
+		{
+			flags = 3
+			steamid = 76561199217863234
+		},
+		{
+			flags = 3
+			steamid = 76561199671138619
+		},
+		{
+			flags = 3
+			steamid = 76561199470214748
+		},
+		{
+			flags = 3
+			steamid = 76561198783043122
+		},
+		{
+			flags = 3
+			steamid = 76561199241470704
+		},
+		{
+			flags = 3
+			steamid = 76561199829065126
+		},
+		{
+			flags = 3
+			steamid = 76561198418238132
+		},
+		{
+			flags = 3
+			steamid = 76561199711048986
+		},
+		{
+			flags = 3
+			steamid = 76561199737720278
+		},
+		{
+			flags = 3
+			steamid = 76561199688810362
+		},
+		{
+			flags = 3
+			steamid = 76561199444687707
+		},
+		{
+			flags = 3
+			steamid = 76561199767074906
+		},
+		{
+			flags = 3
+			steamid = 76561199820969522
+		},
+		{
+			flags = 3
+			steamid = 76561199780107569
+		},
+		{
+			flags = 3
+			steamid = 76561199551231120
+		},
+		{
+			flags = 3
+			steamid = 76561199437714058
+		},
+		{
+			flags = 3
+			steamid = 76561199056209778
+		},
+		{
+			flags = 3
+			steamid = 76561199766715709
+		},
+		{
+			flags = 3
+			steamid = 76561198782789891
+		},
+		{
+			flags = 3
+			steamid = 76561199151207386
+		},
+		{
+			flags = 3
+			steamid = 76561199386456416
+		},
+		{
+			flags = 3
+			steamid = 76561199583113733
+		},
+		{
+			flags = 3
+			steamid = 76561199658810058
+		},
+		{
+			flags = 3
+			steamid = 76561199538699594
+		},
+		{
+			flags = 3
+			steamid = 76561199672490174
+		},
+		{
+			flags = 3
+			steamid = 76561199401026503
+		},
+		{
+			flags = 3
+			steamid = 76561199357828090
+		},
+		{
+			flags = 3
+			steamid = 76561199339644305
+		},
+		{
+			flags = 3
+			steamid = 76561198782942073
+		},
+		{
+			flags = 3
+			steamid = 76561199403399343
+		},
+		{
+			flags = 3
+			steamid = 76561199827504071
+		},
+		{
+			flags = 3
+			steamid = 76561199418125273
+		},
+		{
+			flags = 3
+			steamid = 76561199708324898
+		},
+		{
+			flags = 3
+			steamid = 76561199547832199
+		},
+		{
+			flags = 3
+			steamid = 76561199249035203
+		},
+		{
+			flags = 3
+			steamid = 76561199701919120
+		},
+		{
+			flags = 3
+			steamid = 76561198849955655
+		},
+		{
+			flags = 3
+			steamid = 76561199522547839
+		},
+		{
+			flags = 3
+			steamid = 76561199889124237
+		},
+		{
+			flags = 3
+			steamid = 76561198788044546
+		},
+		{
+			flags = 3
+			steamid = 76561199306169914
+		},
+		{
+			flags = 3
+			steamid = 76561199889045171
+		},
+		{
+			flags = 3
+			steamid = 76561199501836748
+		},
+		{
+			flags = 3
+			steamid = 76561198983132638
+		},
+		{
+			flags = 3
+			steamid = 76561199519452848
+		},
+		{
+			flags = 3
+			steamid = 76561199852241923
+		},
+		{
+			flags = 3
+			steamid = 76561199721179203
+		},
+		{
+			flags = 3
+			steamid = 76561198786372879
+		},
+		{
+			flags = 3
+			steamid = 76561199140390315
+		},
+		{
+			flags = 3
+			steamid = 76561199518254744
+		},
+		{
+			flags = 3
+			steamid = 76561199480202204
+		},
+		{
+			flags = 3
+			steamid = 76561199214295887
+		},
+		{
+			flags = 3
+			steamid = 76561199636157009
+		},
+		{
+			flags = 3
+			steamid = 76561199746701489
+		},
+		{
+			flags = 3
+			steamid = 76561199667984657
+		},
+		{
+			flags = 3
+			steamid = 76561199481143764
+		},
+		{
+			flags = 3
+			steamid = 76561198066712636
+		},
+		{
+			flags = 3
+			steamid = 76561199380913571
+		},
+		{
+			flags = 3
+			steamid = 76561199871109488
+		},
+		{
+			flags = 3
+			steamid = 76561199566252989
+		},
+		{
+			flags = 3
+			steamid = 76561199181069184
+		},
+		{
+			flags = 3
+			steamid = 76561198824723658
+		},
+		{
+			flags = 3
+			steamid = 76561199471502044
+		},
+		{
+			flags = 3
+			steamid = 76561199676668596
+		},
+		{
+			flags = 3
+			steamid = 76561199701684444
+		},
+		{
+			flags = 3
+			steamid = 76561198792345381
+		},
+		{
+			flags = 3
+			steamid = 76561199308714326
+		},
+		{
+			flags = 3
+			steamid = 76561199389617916
+		},
+		{
+			flags = 3
+			steamid = 76561199543519504
+		},
+		{
+			flags = 3
+			steamid = 76561199726516352
+		},
+		{
+			flags = 3
+			steamid = 76561199303895723
+		},
+		{
+			flags = 3
+			steamid = 76561199881337607
+		},
+		{
+			flags = 3
+			steamid = 76561198785194231
+		},
+		{
+			flags = 3
+			steamid = 76561199726437746
+		},
+		{
+			flags = 3
+			steamid = 76561198745171289
+		},
+		{
+			flags = 3
+			steamid = 76561199699075476
+		},
+		{
+			flags = 3
+			steamid = 76561199299070936
+		},
+		{
+			flags = 3
+			steamid = 76561199529573541
+		},
+		{
+			flags = 3
+			steamid = 76561199141300142
+		},
+		{
+			flags = 3
+			steamid = 76561199787816312
+		},
+		{
+			flags = 3
+			steamid = 76561199655281333
+		},
+		{
+			flags = 3
+			steamid = 76561199434458956
+		},
+		{
+			flags = 3
+			steamid = 76561199868400540
+		},
+		{
+			flags = 3
+			steamid = 76561199192436108
+		},
+		{
+			flags = 3
+			steamid = 76561199247274220
+		},
+		{
+			flags = 3
+			steamid = 76561199250764964
+		},
+		{
+			flags = 3
+			steamid = 76561199708716665
+		},
+		{
+			flags = 3
+			steamid = 76561198749497943
+		},
+		{
+			flags = 3
+			steamid = 76561199782023966
+		},
+		{
+			flags = 3
+			steamid = 76561199365591375
+		},
+		{
+			flags = 3
+			steamid = 76561199761706271
+		},
+		{
+			flags = 3
+			steamid = 76561199682002618
+		},
+		{
+			flags = 3
+			steamid = 76561199727230137
+		},
+		{
+			flags = 3
+			steamid = 76561198951739457
+		},
+		{
+			flags = 3
+			steamid = 76561198242423638
+		},
+		{
+			flags = 3
+			steamid = 76561199367579457
+		},
+		{
+			flags = 3
+			steamid = 76561199282913352
+		},
+		{
+			flags = 3
+			steamid = 76561199107586968
+		},
+		{
+			flags = 3
+			steamid = 76561199508789217
+		},
+		{
+			flags = 3
+			steamid = 76561199168010631
+		},
+		{
+			flags = 3
+			steamid = 76561199182895834
+		},
+		{
+			flags = 3
+			steamid = 76561199704714192
+		},
+		{
+			flags = 3
+			steamid = 76561199582041062
+		},
+		{
+			flags = 3
+			steamid = 76561199679507706
+		},
+		{
+			flags = 3
+			steamid = 76561199810616382
+		},
+		{
+			flags = 3
+			steamid = 76561199468909515
+		},
+		{
+			flags = 3
+			steamid = 76561199633304827
+		},
+		{
+			flags = 3
+			steamid = 76561199875370571
+		},
+		{
+			flags = 3
+			steamid = 76561199840124106
+		},
+		{
+			flags = 3
+			steamid = 76561198782255333
+		},
+		{
+			flags = 3
+			steamid = 76561199231010068
+		},
+		{
+			flags = 3
+			steamid = 76561199566300561
+		},
+		{
+			flags = 3
+			steamid = 76561199614212397
+		},
+		{
+			flags = 3
+			steamid = 76561199522057866
+		},
+		{
+			flags = 3
+			steamid = 76561199820048616
+		},
+		{
+			flags = 3
+			steamid = 76561199756046550
+		},
+		{
+			flags = 3
+			steamid = 76561199881064035
+		},
+		{
+			flags = 3
+			steamid = 76561199190676722
+		},
+		{
+			flags = 3
+			steamid = 76561199238140948
+		},
+		{
+			flags = 3
+			steamid = 76561199172356346
+		},
+		{
+			flags = 3
+			steamid = 76561199383076797
+		},
+		{
+			flags = 3
+			steamid = 76561199557947953
+		},
+		{
+			flags = 3
+			steamid = 76561199153081988
+		},
+		{
+			flags = 3
+			steamid = 76561198343065322
+		},
+		{
+			flags = 3
+			steamid = 76561199785468389
+		},
+		{
+			flags = 3
+			steamid = 76561199498307137
+		},
+		{
+			flags = 3
+			steamid = 76561199754302350
+		},
+		{
+			flags = 3
+			steamid = 76561198984930817
+		},
+		{
+			flags = 3
+			steamid = 76561198324427094
+		},
+		{
+			flags = 3
+			steamid = 76561199206972507
+		},
+		{
+			flags = 3
+			steamid = 76561199664664042
+		},
+		{
+			flags = 3
+			steamid = 76561199682276348
+		},
+		{
+			flags = 3
+			steamid = 76561199184222558
+		},
+		{
+			flags = 3
+			steamid = 76561199573962469
+		},
+		{
+			flags = 3
+			steamid = 76561198783836255
+		},
+		{
+			flags = 3
+			steamid = 76561199879131253
+		},
+		{
+			flags = 3
+			steamid = 76561199771970155
+		},
+		{
+			flags = 3
+			steamid = 76561199519253356
+		},
+		{
+			flags = 3
+			steamid = 76561199402756459
+		},
+		{
+			flags = 3
+			steamid = 76561199533900558
+		},
+		{
+			flags = 3
+			steamid = 76561199843185242
+		},
+		{
+			flags = 3
+			steamid = 76561199522091005
+		},
+		{
+			flags = 3
+			steamid = 76561199208826494
+		},
+		{
+			flags = 3
+			steamid = 76561199866169902
+		},
+		{
+			flags = 3
+			steamid = 76561198258543001
+		},
+		{
+			flags = 3
+			steamid = 76561199010723605
+		},
+		{
+			flags = 3
+			steamid = 76561199403860153
+		},
+		{
+			flags = 3
+			steamid = 76561198926512750
+		},
+		{
+			flags = 3
+			steamid = 76561199147596408
+		},
+		{
+			flags = 3
+			steamid = 76561199877114522
+		},
+		{
+			flags = 3
+			steamid = 76561199655131843
+		},
+		{
+			flags = 3
+			steamid = 76561199878493580
+		},
+		{
+			flags = 3
+			steamid = 76561199184222760
+		},
+		{
+			flags = 3
+			steamid = 76561199139191513
+		},
+		{
+			flags = 3
+			steamid = 76561199208773561
+		},
+		{
+			flags = 3
+			steamid = 76561199512301360
+		},
+		{
+			flags = 3
+			steamid = 76561199483200974
+		},
+		{
+			flags = 3
+			steamid = 76561199603337602
+		},
+		{
+			flags = 3
+			steamid = 76561199482097085
+		},
+		{
+			flags = 3
+			steamid = 76561199018363581
+		},
+		{
+			flags = 3
+			steamid = 76561199036401797
+		},
+		{
+			flags = 3
+			steamid = 76561198291370362
+		},
+		{
+			flags = 3
+			steamid = 76561199788421537
+		},
+		{
+			flags = 3
+			steamid = 76561198778436013
+		},
+		{
+			flags = 3
+			steamid = 76561198865182414
+		},
+		{
+			flags = 3
+			steamid = 76561198389639690
+		},
+		{
+			flags = 3
+			steamid = 76561199772876594
+		},
+		{
+			flags = 3
+			steamid = 76561199679322247
+		},
+		{
+			flags = 3
+			steamid = 76561199223649227
+		},
+		{
+			flags = 3
+			steamid = 76561199086089215
+		},
+		{
+			flags = 3
+			steamid = 76561199366020994
+		},
+		{
+			flags = 3
+			steamid = 76561199571653194
+		},
+		{
+			flags = 3
+			steamid = 76561199407542969
+		},
+		{
+			flags = 3
+			steamid = 76561199805013864
+		},
+		{
+			flags = 3
+			steamid = 76561199592012592
+		},
+		{
+			flags = 3
+			steamid = 76561199475733901
+		},
+		{
+			flags = 3
+			steamid = 76561199776257168
+		},
+		{
+			flags = 3
+			steamid = 76561199570524509
+		},
+		{
+			flags = 3
+			steamid = 76561198420602608
+		},
+		{
+			flags = 3
+			steamid = 76561199728989766
+		},
+		{
+			flags = 3
+			steamid = 76561199644728490
+		},
+		{
+			flags = 3
+			steamid = 76561199821827928
+		},
+		{
+			flags = 3
+			steamid = 76561199276066569
+		},
+		{
+			flags = 3
+			steamid = 76561199218268304
+		},
+		{
+			flags = 3
+			steamid = 76561199089394379
+		},
+		{
+			flags = 3
+			steamid = 76561198434566285
+		},
+		{
+			flags = 3
+			steamid = 76561199060397539
+		},
+		{
+			flags = 3
+			steamid = 76561199674065738
+		},
+		{
+			flags = 3
+			steamid = 76561199869584362
+		},
+		{
+			flags = 3
+			steamid = 76561199549698299
+		},
+		{
+			flags = 3
+			steamid = 76561199404957948
+		},
+		{
+			flags = 3
+			steamid = 76561199768260326
+		},
+		{
+			flags = 3
+			steamid = 76561199241335966
+		},
+		{
+			flags = 3
+			steamid = 76561199181860682
+		},
+		{
+			flags = 3
+			steamid = 76561199142405817
+		},
+		{
+			flags = 3
+			steamid = 76561199828596827
+		},
+		{
+			flags = 3
+			steamid = 76561199300621684
+		},
+		{
+			flags = 3
+			steamid = 76561199808068104
+		},
+		{
+			flags = 3
+			steamid = 76561199535693174
+		},
+		{
+			flags = 3
+			steamid = 76561198133904342
+		},
+		{
+			flags = 3
+			steamid = 76561199405696140
+		},
+		{
+			flags = 3
+			steamid = 76561198784343388
+		},
+		{
+			flags = 3
+			steamid = 76561199791448992
+		},
+		{
+			flags = 3
+			steamid = 76561198783237370
+		},
+		{
+			flags = 3
+			steamid = 76561199806683652
+		},
+		{
+			flags = 3
+			steamid = 76561199730889661
+		},
+		{
+			flags = 3
+			steamid = 76561199639683454
+		},
+		{
+			flags = 3
+			steamid = 76561199752026047
+		},
+		{
+			flags = 3
+			steamid = 76561199573857974
+		},
+		{
+			flags = 3
+			steamid = 76561199856984127
+		},
+		{
+			flags = 3
+			steamid = 76561199203740946
+		},
+		{
+			flags = 3
+			steamid = 76561199387210737
+		},
+		{
+			flags = 3
+			steamid = 76561198777563628
+		},
+		{
+			flags = 3
+			steamid = 76561198448886853
+		},
+		{
+			flags = 3
+			steamid = 76561199198570098
+		},
+		{
+			flags = 3
+			steamid = 76561199691191488
+		},
+		{
+			flags = 3
+			steamid = 76561199370832009
+		},
+		{
+			flags = 3
+			steamid = 76561199167642234
+		},
+		{
+			flags = 3
+			steamid = 76561199086737495
+		},
+		{
+			flags = 3
+			steamid = 76561199193105655
+		},
+		{
+			flags = 3
+			steamid = 76561199538269913
+		},
+		{
+			flags = 3
+			steamid = 76561199124427658
+		},
+		{
+			flags = 3
+			steamid = 76561199379827926
+		},
+		{
+			flags = 3
+			steamid = 76561199823160595
+		},
+		{
+			flags = 3
+			steamid = 76561199700012277
+		},
+		{
+			flags = 3
+			steamid = 76561198102096119
+		},
+		{
+			flags = 3
+			steamid = 76561199349235569
+		},
+		{
+			flags = 3
+			steamid = 76561199636449309
+		},
+		{
+			flags = 3
+			steamid = 76561199172209350
+		},
+		{
+			flags = 3
+			steamid = 76561199573036835
+		},
+		{
+			flags = 3
+			steamid = 76561199860410764
+		},
+		{
+			flags = 3
+			steamid = 76561199758799701
+		},
+		{
+			flags = 3
+			steamid = 76561199060030331
+		},
+		{
+			flags = 3
+			steamid = 76561199830000747
+		},
+		{
+			flags = 3
+			steamid = 76561199640043240
+		},
+		{
+			flags = 3
+			steamid = 76561198781509554
+		},
+		{
+			flags = 3
+			steamid = 76561199504477440
+		},
+		{
+			flags = 3
+			steamid = 76561199730450523
+		},
+		{
+			flags = 3
+			steamid = 76561199197765516
+		},
+		{
+			flags = 3
+			steamid = 76561199143686134
+		},
+		{
+			flags = 3
+			steamid = 76561199798065244
+		},
+		{
+			flags = 3
+			steamid = 76561199116480757
+		},
+		{
+			flags = 3
+			steamid = 76561199866898400
+		},
+		{
+			flags = 3
+			steamid = 76561199220396863
+		},
+		{
+			flags = 3
+			steamid = 76561199865247054
+		},
+		{
+			flags = 3
+			steamid = 76561199535710344
+		},
+		{
+			flags = 3
+			steamid = 76561199816146966
+		},
+		{
+			flags = 3
+			steamid = 76561199826708132
+		},
+		{
+			flags = 3
+			steamid = 76561198375694005
+		},
+		{
+			flags = 3
+			steamid = 76561199796081801
+		},
+		{
+			flags = 3
+			steamid = 76561199672092815
+		},
+		{
+			flags = 3
+			steamid = 76561199778086287
+		},
+		{
+			flags = 3
+			steamid = 76561199870170816
+		},
+		{
+			flags = 3
+			steamid = 76561199804560485
+		},
+		{
+			flags = 3
+			steamid = 76561199540673302
+		},
+		{
+			flags = 3
+			steamid = 76561199469967315
+		},
+		{
+			flags = 3
+			steamid = 76561199424683174
+		},
+		{
+			flags = 3
+			steamid = 76561199416532604
+		},
+		{
+			flags = 3
+			steamid = 76561199557234896
+		},
+		{
+			flags = 3
+			steamid = 76561199226818792
+		},
+		{
+			flags = 3
+			steamid = 76561199643319808
+		},
+		{
+			flags = 3
+			steamid = 76561199816233468
+		},
+		{
+			flags = 3
+			steamid = 76561198779676800
+		},
+		{
+			flags = 3
+			steamid = 76561199862580767
+		},
+		{
+			flags = 3
+			steamid = 76561199061751140
+		},
+		{
+			flags = 3
+			steamid = 76561199768688304
+		},
+		{
+			flags = 3
+			steamid = 76561199835237075
+		},
+		{
+			flags = 3
+			steamid = 76561199549267786
+		},
+		{
+			flags = 3
+			steamid = 76561199185507499
+		},
+		{
+			flags = 3
+			steamid = 76561199172487338
+		},
+		{
+			flags = 3
+			steamid = 76561199220598882
+		},
+		{
+			flags = 3
+			steamid = 76561198743014665
+		},
+		{
+			flags = 3
+			steamid = 76561198728310245
+		},
+		{
+			flags = 3
+			steamid = 76561199036201871
+		},
+		{
+			flags = 3
+			steamid = 76561199195206391
+		},
+		{
+			flags = 3
+			steamid = 76561199159046798
+		},
+		{
+			flags = 3
+			steamid = 76561199612370574
+		},
+		{
+			flags = 3
+			steamid = 76561199472652637
+		},
+		{
+			flags = 3
+			steamid = 76561199255277065
+		},
+		{
+			flags = 3
+			steamid = 76561199711500990
+		},
+		{
+			flags = 3
+			steamid = 76561199296556048
+		},
+		{
+			flags = 3
+			steamid = 76561199868449086
+		},
+		{
+			flags = 3
+			steamid = 76561199843799206
+		},
+		{
+			flags = 3
+			steamid = 76561199559951514
+		},
+		{
+			flags = 3
+			steamid = 76561199501184517
+		},
+		{
+			flags = 3
+			steamid = 76561198731791390
+		},
+		{
+			flags = 3
+			steamid = 76561199574493623
+		},
+		{
+			flags = 3
+			steamid = 76561199262852679
+		},
+		{
+			flags = 3
+			steamid = 76561199866597442
+		},
+		{
+			flags = 3
+			steamid = 76561199098359090
+		},
+		{
+			flags = 3
+			steamid = 76561199634403095
+		},
+		{
+			flags = 3
+			steamid = 76561199822470852
+		},
+		{
+			flags = 3
+			steamid = 76561199511838104
+		},
+		{
+			flags = 3
+			steamid = 76561199565482010
+		},
+		{
+			flags = 3
+			steamid = 76561199082730246
+		},
+		{
+			flags = 3
+			steamid = 76561199763458215
+		},
+		{
+			flags = 3
+			steamid = 76561198772155343
+		},
+		{
+			flags = 3
+			steamid = 76561199296773163
+		},
+		{
+			flags = 3
+			steamid = 76561199653949907
+		},
+		{
+			flags = 3
+			steamid = 76561199805967872
+		},
+		{
+			flags = 3
+			steamid = 76561199244214704
+		},
+		{
+			flags = 3
+			steamid = 76561199560234440
+		},
+		{
+			flags = 3
+			steamid = 76561198750667659
+		},
+		{
+			flags = 3
+			steamid = 76561199669416755
+		},
+		{
+			flags = 3
+			steamid = 76561199547979810
+		},
+		{
+			flags = 3
+			steamid = 76561199833216197
+		},
+		{
+			flags = 3
+			steamid = 76561198789488689
+		},
+		{
+			flags = 3
+			steamid = 76561199227395006
+		},
+		{
+			flags = 3
+			steamid = 76561199791266343
+		},
+		{
+			flags = 3
+			steamid = 76561198158932367
+		},
+		{
+			flags = 3
+			steamid = 76561198767718908
+		},
+		{
+			flags = 3
+			steamid = 76561199509694186
+		},
+		{
+			flags = 3
+			steamid = 76561199519548134
+		},
+		{
+			flags = 3
+			steamid = 76561199851878299
+		},
+		{
+			flags = 3
+			steamid = 76561199759999087
+		},
+		{
+			flags = 3
+			steamid = 76561199240637048
+		},
+		{
+			flags = 3
+			steamid = 76561198789983782
+		},
+		{
+			flags = 3
+			steamid = 76561199657953680
+		},
+		{
+			flags = 3
+			steamid = 76561199871339972
+		},
+		{
+			flags = 3
+			steamid = 76561199318354395
+		},
+		{
+			flags = 3
+			steamid = 76561199240021056
+		},
+		{
+			flags = 3
+			steamid = 76561198726080229
+		},
+		{
+			flags = 3
+			steamid = 76561199543769067
+		},
+		{
+			flags = 3
+			steamid = 76561198290116771
+		},
+		{
+			flags = 3
+			steamid = 76561199364710732
+		},
+		{
+			flags = 3
+			steamid = 76561199240514371
+		},
+		{
+			flags = 3
+			steamid = 76561198729793361
+		},
+		{
+			flags = 3
+			steamid = 76561199559723709
+		},
+		{
+			flags = 3
+			steamid = 76561198822884792
+		},
+		{
+			flags = 3
+			steamid = 76561199296545255
+		},
+		{
+			flags = 3
+			steamid = 76561199405270905
+		},
+		{
+			flags = 3
+			steamid = 76561199784636373
+		},
+		{
+			flags = 3
+			steamid = 76561198375522050
+		},
+		{
+			flags = 3
+			steamid = 76561199389631934
+		},
+		{
+			flags = 3
+			steamid = 76561199466641691
+		},
+		{
+			flags = 3
+			steamid = 76561199364861011
+		},
+		{
+			flags = 3
+			steamid = 76561199196783895
+		},
+		{
+			flags = 3
+			steamid = 76561199205971522
+		},
+	]
+	player_volume_map = null
+}
